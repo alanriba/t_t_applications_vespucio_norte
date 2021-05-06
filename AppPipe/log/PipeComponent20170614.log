@@ -1,0 +1,337 @@
+
+09:18:59.477,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 13-06-2017 09:10:35
+09:18:59.522,000,IOP:
+09:18:59.548,000,REQ:104~1~30
+09:18:59.550,000,REQ:104~1~30
+09:18:59.567,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+09:18:59.588,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+09:18:59.588,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+09:18:59.589,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+09:58:39.780,000,REQ:104~1~30
+09:59:09.789,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+09:59:09.790,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+09:59:20.049,000,REQ:104~1~30
+09:59:50.055,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+09:59:50.055,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:00:02.905,000,REQ:104~1~30
+10:00:32.912,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:00:32.913,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:00:35.310,000,REQ:104~1~30
+10:01:05.319,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:01:05.319,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:04:44.753,000,REQ:104~1~30
+10:05:14.760,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:05:14.760,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:05:20.156,000,REQ:104~1~30
+10:05:50.160,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:05:50.161,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:05:55.159,000,REQ:104~1~30
+10:06:25.166,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:06:25.166,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:06:41.227,000,REQ:104~1~30
+10:07:11.234,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:07:11.235,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:10:04.557,000,REQ:104~1~30
+10:10:34.566,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:10:34.566,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:12:15.943,000,REQ:104~1~30
+10:12:45.950,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:12:45.951,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:13:42.918,000,REQ:104~1~30
+10:14:12.926,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:14:12.926,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:15:37.923,000,REQ:104~1~30
+10:16:07.929,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:16:07.930,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:20:34.415,000,REQ:104~1~30
+10:21:04.425,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:21:04.426,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:21:07.549,000,REQ:104~1~30
+10:21:37.556,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:21:37.557,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:21:46.080,000,REQ:104~1~30
+10:22:16.085,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 182
+10:22:16.085,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+10:29:50.371,000,REQ:200~B:14132101-3:1234:Afiliado
+10:29:50.390,000,RES:OK~n0tSZAFXrN5SD0emh8WosnmNzqRX+gLEITshtuoUOyd5VDFXwB3UD2USTYhCqAolCxNbjchlN05brJSwmNXG2g==
+13:06:01.531,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1
+
+13:43:18.822,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 13:43:15
+13:43:18.845,000,IOP:
+13:43:25.089,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1,33884791;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189
+13:43:37.990,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1,33884791;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189
+
+13:45:21.403,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 13:45:20
+13:45:21.429,000,IOP:
+13:45:33.731,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1,33884791;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189
+13:46:13.851,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 93
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 108
+13:46:13.854,000,RES:NOK~Error en el servidor remoto: (404) No se encontró.
+13:46:26.377,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1,33884791;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189
+
+13:56:42.432,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 13:56:41
+13:56:42.448,000,IOP:
+13:56:54.458,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1,33884791;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189
+13:57:05.915,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 95
+13:57:11.631,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 95
+
+14:05:24.523,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 14:05:24
+14:05:24.536,000,IOP:
+14:05:28.232,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33884791&e=96992030&r=1,33884791;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189
+14:05:30.309,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:05:30.330,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:05:39.985,000,RES:OK~33884791,33213189
+
+14:06:27.561,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 14:06:27
+14:06:27.597,000,IOP:
+14:11:10.155,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139
+14:11:14.827,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:11:25.438,000,RES:OK~5429327
+14:11:59.290,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:11:59.341,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:12:02.527,000,RES:OK~5429327
+14:17:48.266,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:17:48.302,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:17:56.187,000,RES:OK~5429327
+14:18:43.379,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:18:43.417,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:18:44.194,000,RES:OK~5429327
+14:19:50.944,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:19:50.998,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:19:51.949,000,RES:OK~5429327
+14:20:16.308,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:20:16.334,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:20:17.097,000,RES:OK~5429327
+14:20:59.087,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:20:59.136,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:21:08.087,000,RES:OK~5429327
+14:22:36.337,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:22:36.375,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:22:37.164,000,RES:OK~5429327
+14:22:54.012,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:22:54.817,000,ERR:System.ArgumentOutOfRangeException: La longitud no puede ser inferior a cero.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 108
+14:22:54.819,000,RES:NOK~La longitud no puede ser inferior a cero.
+Nombre del parámetro: length
+
+14:23:50.100,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 14:23:49
+14:23:50.115,000,IOP:
+14:23:54.106,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:23:54.962,000,RES:OK~
+14:30:38.127,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:30:38.198,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:30:39.112,000,RES:OK~5429327
+14:36:54.593,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:36:54.629,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:36:55.413,000,RES:OK~5429327
+14:38:23.621,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:38:23.655,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:38:24.541,000,RES:OK~5429327
+14:39:11.968,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:39:12.035,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:39:13.070,000,RES:OK~5429327
+14:40:36.845,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:40:36.881,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:40:37.616,000,RES:OK~5429327
+14:40:52.633,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:40:52.655,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:40:52.655,000,RES:OK~5429327
+14:40:57.234,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:40:57.253,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:40:57.254,000,RES:OK~5429327
+14:41:00.759,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:41:00.839,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:41:00.840,000,RES:OK~5429327
+14:41:03.270,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:41:03.290,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:41:03.290,000,RES:OK~5429327
+14:41:12.554,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:41:13.001,000,RES:OK~
+
+14:44:48.314,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 14:44:47
+14:44:48.325,000,IOP:
+14:44:52.053,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5391139&e=96992030&r=1,5391139;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:44:52.443,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:44:53.188,000,RES:NOK~5429327
+14:49:15.472,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:49:15.512,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:49:15.512,000,RES:NOK~5429327
+14:49:50.118,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:49:50.171,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:49:50.171,000,RES:NOK~5429327
+14:50:03.298,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:50:03.323,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:50:03.323,000,RES:NOK~5429327
+14:50:07.152,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:50:07.178,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:50:07.179,000,RES:NOK~5429327
+14:50:14.093,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:50:14.157,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:50:14.157,000,RES:NOK~5429327
+14:51:24.777,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5429327&e=96992030&r=1,5429327
+14:51:24.823,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 96
+14:51:24.823,000,RES:NOK~5429327
+
+14:51:43.886,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 14:51:43
+14:51:43.926,000,IOP:
+15:52:23.418,000,REQ:104~1~30
+15:52:53.434,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\AVN\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 183
+15:52:53.437,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+
+16:01:50.789,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 16:01:50
+16:01:50.828,000,IOP:
+
+16:41:36.072,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 16:41:35
+16:41:36.083,000,IOP:
+17:25:20.111,000,REQ:101~pdf~http://asp4qa.paperless.cl/Facturacion/webservices/ConsultaPDF.jsp?e=96992030&t=39&f=5470834&r=1
+17:25:20.123,000,ERR:System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 92
+17:25:20.127,000,ERR:System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 102
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 108
+17:25:20.130,000,RES:NOK~Índice fuera de los límites de la matriz.
+17:25:20.137,000,ERR:System.IO.IOException: Canalización interrumpida.
+   en System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   en System.IO.Pipes.PipeStream.BeginWriteCore(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   en System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   en System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 264
+17:40:26.461,000,REQ:101~pdf~http://asp4qa.paperless.cl/Facturacion/webservices/ConsultaPDF.jsp?e=96992030&t=39&f=5470834&r=1
+17:40:26.463,000,ERR:System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 92
+17:40:26.465,000,ERR:System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\AVN\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 102
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 108
+17:40:26.465,000,RES:NOK~Índice fuera de los límites de la matriz.
+17:40:26.467,000,ERR:System.IO.IOException: Canalización interrumpida.
+   en System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   en System.IO.Pipes.PipeStream.BeginWriteCore(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   en System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   en System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 264
+18:36:41.954,000,REQ:107~2~CPHH16,07-01-2013,23:14:35,11,AVN;CPHH16,07-01-2013,23:13:19,13,AVN;CPHH16,05-01-2013,06:02:41,13,AVN
+18:36:42.991,000,RES:OK~Archivo creado

@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\totalpack\AppKiosko\AppPipe\PipeComponent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\totalpack\AppKiosko\AppPipe\PipeComponent.InstallLog
+   assemblypath = C:\totalpack\AppKiosko\AppPipe\PipeComponent.exe
+Installing service PipeComponent...
+Service PipeComponent has been successfully installed.
+Creating EventLog source PipeComponent in log Application...
+Committing assembly 'C:\totalpack\AppKiosko\AppPipe\PipeComponent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\totalpack\AppKiosko\AppPipe\PipeComponent.InstallLog
+   assemblypath = C:\totalpack\AppKiosko\AppPipe\PipeComponent.exe

@@ -1,0 +1,32 @@
+
+10:29:18.559,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 20-06-2017 17:58:26
+10:29:19.102,000,IOP:
+
+11:42:11.898,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 21-06-2017 11:28:20
+11:42:12.020,000,IOP:
+
+14:48:19.825,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 21-06-2017 14:00:24
+14:48:20.040,000,IOP:
+14:48:20.100,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=2585697&e=96992030&r=1,2585697;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=2585724&e=96992030&r=1,2585724;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=33&f=505076&e=96992030&r=1,505076
+14:48:41.178,000,ERR:System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 172.20.3.96:8080
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 106
+14:49:02.205,000,ERR:System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 172.20.3.96:8080
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 106
+14:49:23.225,000,ERR:System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 172.20.3.96:8080
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 106
+14:49:23.228,000,RES:OK~2585697,2585724,505076

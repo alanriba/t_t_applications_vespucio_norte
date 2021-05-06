@@ -1,0 +1,33 @@
+16:59:41.089,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+16:59:41.129,I,000;Inicio Conexion BD
+16:59:41.230,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+17:01:09.180,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+17:01:09.185,I,000;Inicio Conexion BD
+17:01:09.190,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+17:02:44.162,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+17:02:44.164,I,000;Inicio Conexion BD
+17:02:44.168,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50

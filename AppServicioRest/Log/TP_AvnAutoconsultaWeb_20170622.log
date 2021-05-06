@@ -1,0 +1,16 @@
+18:18:08.295,Q,204;TP10PP001432041|REG|0|2017-06-22 18:18:08|2017-06-22 18:18:08|Boleta|Consulta Boletas|0|V|Consulta Boletas|15.958.339-2|0|0||||||0|0|||0||D5DD@
+18:18:18.283,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+18:18:23.531,Q,204;TP10PP001432041|REG|0|2017-06-22 18:18:23|2017-06-22 18:18:23|Boleta|Consulta Boletas|0|V|Consulta Boletas|15.958.339-2|0|0||||||0|0|||0||D5E3@
+18:18:33.539,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+18:19:26.657,Q,204;TP10PP001582041|REG|0|2017-06-22 18:19:26|2017-06-22 18:19:26|Certificado|Impresion Certificado|0|V|Impresion Certificado|15.958.339-2|0|0||||||0|0|||0||CFCF@
+18:19:36.658,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+19:03:43.853,Q,204;TP10PP001432041|REG|0|2017-06-22 19:03:43|2017-06-22 19:03:43|Boleta|Consulta Boletas|0|V|Consulta Boletas|15.958.339-2|0|0||||||0|0|||0||D5E9@
+19:03:53.854,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98

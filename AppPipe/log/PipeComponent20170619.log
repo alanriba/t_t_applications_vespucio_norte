@@ -1,0 +1,507 @@
+
+10:39:58.373,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 16:41:35
+10:39:58.405,000,IOP:
+10:40:00.917,000,REQ:102~1~1,2,3,4,5,6
+10:40:00.957,000,ERR:System.FormatException: No se puede reconocer la cadena como valor DateTime válido.
+   en System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   en System.Convert.ToDateTime(String value)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 104
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+10:40:00.957,000,RES:NOK~No se puede reconocer la cadena como valor DateTime válido.
+
+10:40:49.168,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 14-06-2017 16:41:35
+10:40:49.181,000,IOP:
+10:40:49.971,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:40:50.228,000,RES:OK~Voucher impreso
+10:40:54.465,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:40:54.480,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+10:40:54.481,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+10:42:06.151,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:42:05
+10:42:06.186,000,IOP:
+10:42:08.686,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:42:08.913,000,RES:OK~Voucher impreso
+10:42:12.360,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:42:12.375,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.<>c__DisplayClass9_0.<WaitForConnectionCallBack>b__1(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 134
+10:42:12.377,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:42:13.815,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:42:13.820,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.<>c__DisplayClass9_0.<WaitForConnectionCallBack>b__1(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 134
+10:42:13.822,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+10:44:17.598,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:44:17
+10:44:17.624,000,IOP:
+10:44:20.218,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:44:20.445,000,RES:OK~Voucher impreso
+10:44:24.239,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:44:24.253,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 135
+   en PipeComponent.PipeServer.<>c__DisplayClass9_0.<WaitForConnectionCallBack>b__1(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 134
+10:44:24.255,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:44:25.205,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:44:25.209,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 135
+   en PipeComponent.PipeServer.<>c__DisplayClass9_0.<WaitForConnectionCallBack>b__1(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 134
+10:44:25.212,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+10:48:35.606,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:48:35
+10:48:35.623,000,IOP:
+10:48:38.068,000,REQ:102~1~1,2,2017-06-19,4,5,6
+10:48:38.079,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 130
+10:48:38.081,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+
+10:48:53.651,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:48:35
+
+10:51:37.953,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:51:37
+10:51:37.974,000,IOP:
+10:51:40.878,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:51:40.927,000,RES:OK~Voucher impreso
+
+10:52:02.810,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:52:02
+10:52:02.837,000,IOP:
+10:52:04.495,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:05.148,000,RES:OK~Voucher impreso
+10:52:08.626,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:08.637,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:08.637,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:09.794,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:10.002,000,RES:OK~Voucher impreso
+10:52:14.417,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:14.422,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:14.424,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:16.297,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:16.302,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:16.304,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:18.120,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:18.125,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:18.127,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:19.849,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:19.854,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:19.856,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:21.568,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:21.573,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:21.575,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:21.771,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:21.773,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:21.774,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:22.208,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:22.211,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:22.211,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:22.384,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:22.387,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:22.387,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:22.576,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:22.579,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:22.579,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:22.752,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:22.755,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:22.756,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:27.850,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:27.853,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:27.854,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:29.033,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:29.036,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:29.036,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+10:52:48.913,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:52:48
+10:52:48.942,000,IOP:
+10:52:50.367,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:50.595,000,RES:OK~Voucher impreso
+10:52:53.720,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:53.732,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:53.734,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:52:55.825,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:52:55.830,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+10:52:55.832,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+10:55:30.918,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:55:30
+10:55:30.952,000,IOP:
+10:55:33.068,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:55:33.293,000,RES:OK~Voucher impreso
+10:55:35.679,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:55:35.691,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 130
+10:55:35.693,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:55:36.984,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:55:36.989,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 130
+10:55:36.991,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:55:38.087,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:55:38.092,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 130
+10:55:38.094,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:55:39.888,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:55:39.893,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 130
+10:55:39.895,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:55:40.719,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:55:40.723,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 130
+10:55:40.725,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+10:58:47.681,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:58:47
+10:58:47.694,000,IOP:
+
+10:59:23.868,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 10:59:23
+10:59:23.931,000,IOP:
+10:59:26.118,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:59:26.347,000,RES:OK~Voucher impreso
+10:59:28.566,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:59:28.577,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 39
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+10:59:28.579,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:59:30.802,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:59:30.807,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 39
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+10:59:30.809,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+10:59:31.422,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+10:59:31.425,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 39
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+10:59:31.425,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+11:01:04.312,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:01:03
+11:01:04.336,000,IOP:
+11:01:07.324,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:01:07.553,000,RES:OK~Voucher impreso
+11:01:13.074,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:01:13.088,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 139
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:01:13.090,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:01:14.609,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:01:14.613,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 139
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:01:14.615,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+11:02:44.437,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:02:43
+11:02:44.462,000,IOP:
+11:02:46.219,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:46.445,000,RES:OK~Voucher impreso
+11:02:49.599,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:49.614,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 142
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:02:49.616,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:02:52.311,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:52.316,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 142
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:02:52.318,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:02:53.092,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:53.096,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 142
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:02:53.096,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:02:53.629,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:53.634,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 142
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:02:53.636,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:02:54.165,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:54.170,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 142
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:02:54.171,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:02:54.590,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:02:54.595,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 142
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 128
+11:02:54.596,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+11:04:06.673,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:04:06
+11:04:06.712,000,IOP:
+11:04:08.091,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:04:08.314,000,RES:OK~Voucher impreso
+11:04:10.284,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:04:10.295,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 46
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+11:04:10.297,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:04:12.007,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:04:12.011,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 46
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+11:04:12.013,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+
+11:05:03.696,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:05:03
+11:05:03.712,000,IOP:
+11:05:06.010,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:05:06.233,000,RES:OK~Voucher impreso
+11:05:08.310,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:05:08.322,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 61
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+11:05:08.324,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:05:12.263,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:05:12.268,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 61
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+11:05:12.270,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+11:08:55.585,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:08:55
+
+11:21:20.707,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:21:20
+11:21:20.721,000,IOP:
+11:21:23.619,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:21:23.638,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+11:21:23.640,000,RES:NOK~Error al inicializar la impresora: Printer open error
+
+11:21:32.847,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:21:20
+11:21:32.860,000,IOP:
+11:21:33.929,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:21:33.946,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+11:21:33.948,000,RES:NOK~Error al inicializar la impresora: Printer open error
+11:21:34.563,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:21:34.568,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+11:21:34.570,000,RES:NOK~Error al inicializar la impresora: Printer open error
+
+11:22:17.961,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 11:22:17
+11:22:17.996,000,IOP:
+11:22:19.732,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:22:19.957,000,RES:OK~Voucher impreso
+11:22:22.063,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:22:22.075,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+11:22:22.077,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:22:25.305,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:22:25.310,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+11:22:25.312,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+11:22:26.532,000,REQ:102~NII ExD NP-K205~1,2,2017-06-19,4,5,6
+11:22:26.535,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 132
+11:22:26.536,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+18:07:25.440,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:07:24
+18:07:25.450,000,IOP:
+18:07:27.159,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:07:27.201,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+18:07:27.203,000,RES:NOK~Error al inicializar la impresora: Printer open error
+
+18:07:48.579,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:07:48
+18:07:48.620,000,IOP:
+18:07:50.538,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:07:50.778,000,RES:OK~Voucher impreso
+18:07:53.409,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:07:53.421,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+18:07:53.423,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:07:55.157,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:07:55.162,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+18:07:55.164,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:07:55.728,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:07:55.731,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 129
+18:07:55.732,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+18:19:53.930,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:19:53
+18:19:53.945,000,IOP:
+18:19:56.700,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:19:56.925,000,RES:OK~Voucher impreso
+18:19:59.035,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:19:59.047,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:19:59.049,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:20:01.036,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:01.041,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:20:01.043,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:20:02.092,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:02.097,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:20:02.099,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:20:02.661,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:02.666,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:20:02.668,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:20:03.119,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:03.124,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:20:03.129,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:20:03.700,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:03.704,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:20:03.704,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+18:20:53.748,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:20:53
+18:20:53.760,000,IOP:
+18:20:54.754,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:54.980,000,RES:OK~Voucher impreso
+18:20:57.923,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:20:58.130,000,RES:OK~Voucher impreso
+18:21:01.319,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:21:01.332,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:21:01.334,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:21:03.918,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:21:03.923,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:21:03.925,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:21:06.293,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:21:06.297,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:21:06.297,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:21:08.268,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:21:08.271,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0(Object param) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:21:08.272,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+18:27:19.334,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:27:18
+18:27:19.382,000,IOP:
+18:27:21.898,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:27:21.902,000,RES:OK~Voucher impreso
+18:27:24.435,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:27:24.445,000,ERR:System.Threading.ThreadStateException: Subproceso en ejecución o terminado; no se puede reiniciar.
+   en System.Threading.Thread.StartupSetApartmentStateInternal()
+   en System.Threading.Thread.Start(StackCrawlMark& stackMark)
+   en System.Threading.Thread.Start()
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 138
+18:27:24.445,000,RES:NOK~Subproceso en ejecución o terminado; no se puede reiniciar.
+18:27:26.845,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:27:26.849,000,ERR:System.Threading.ThreadStateException: Subproceso en ejecución o terminado; no se puede reiniciar.
+   en System.Threading.Thread.StartupSetApartmentStateInternal()
+   en System.Threading.Thread.Start(StackCrawlMark& stackMark)
+   en System.Threading.Thread.Start()
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 138
+18:27:26.851,000,RES:NOK~Subproceso en ejecución o terminado; no se puede reiniciar.
+
+18:28:22.703,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:28:22
+18:28:22.761,000,IOP:
+18:28:24.500,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:28:24.505,000,RES:OK~Voucher impreso
+18:28:27.936,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:28:27.946,000,ERR:System.Threading.ThreadStateException: Subproceso en ejecución o terminado; no se puede reiniciar.
+   en System.Threading.Thread.StartupSetApartmentStateInternal()
+   en System.Threading.Thread.Start(StackCrawlMark& stackMark)
+   en System.Threading.Thread.Start()
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 139
+18:28:27.946,000,RES:NOK~Subproceso en ejecución o terminado; no se puede reiniciar.
+
+18:43:23.044,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:43:22
+18:43:23.061,000,IOP:
+18:43:25.345,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:43:25.349,000,RES:OK~Voucher impreso
+18:43:28.051,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:43:28.061,000,ERR:System.InvalidOperationException: Start no se puede invocar en una tarea que se ha completado.
+   en System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   en System.Threading.Tasks.Task.Start()
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 137
+18:43:28.061,000,RES:NOK~Start no se puede invocar en una tarea que se ha completado.
+18:43:31.486,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:43:31.490,000,ERR:System.InvalidOperationException: Start no se puede invocar en una tarea que se ha completado.
+   en System.Threading.Tasks.Task.Start(TaskScheduler scheduler)
+   en System.Threading.Tasks.Task.Start()
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 137
+18:43:31.492,000,RES:NOK~Start no se puede invocar en una tarea que se ha completado.
+
+18:49:48.816,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:49:48
+18:49:48.828,000,IOP:
+18:49:51.269,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:49:51.494,000,RES:OK~Voucher impreso
+18:49:53.550,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:49:53.562,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0() en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:49:53.564,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:49:55.322,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:49:55.327,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0() en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:49:55.328,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+18:49:55.823,000,REQ:102~NII ExD NP-K205~Mensaje de prueba
+18:49:55.827,000,ERR:System.Exception: Error al inicializar la impresora: Data expansion error
+   en PipeComponent.Peripherals.ThermalPrinter.PrintVoucher(String printerName, String voucher) en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 54
+   en PipeComponent.PipeServer.<.ctor>b__7_0() en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 38
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 136
+18:49:55.827,000,RES:NOK~Error al inicializar la impresora: Data expansion error
+
+18:51:36.840,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 19-06-2017 18:51:36

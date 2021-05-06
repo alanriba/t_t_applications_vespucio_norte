@@ -1,0 +1,142 @@
+12:17:55.302,000,REQ:102~NII ExD NP-K3053~1100609834,44667199,09/08/2017,40.935,11200516819,RODRIGO ECHEVERRIA
+12:17:55.437,000,RES:OK~Voucher impreso
+
+15:12:55.473,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 02-08-2017 14:34:22
+15:12:55.513,000,IOP:
+15:16:20.008,000,REQ:102~NII ExD NP-K3053~1101520059,31022304,23/06/2014,159.870,12500351541,ALEX ANTONIO RIVERA
+15:16:20.036,000,RES:OK~Voucher impreso
+17:01:03.761,000,REQ:104~1~30
+17:01:03.765,000,ERR:TPAuto.HuellaCI.Exceptions.InvalidLicenseException: El componente ID3 no se encuentra licenciado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 68
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 193
+17:01:03.766,000,RES:NOK~El componente ID3 no se encuentra licenciado.
+17:01:09.262,000,REQ:104~1~30
+17:01:09.263,000,ERR:TPAuto.HuellaCI.Exceptions.InvalidLicenseException: El componente ID3 no se encuentra licenciado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 68
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 193
+17:01:09.263,000,RES:NOK~El componente ID3 no se encuentra licenciado.
+
+17:03:04.545,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 02-08-2017 14:34:22
+17:03:04.585,000,IOP:
+17:06:23.007,000,REQ:104~1~30
+17:06:23.432,000,RES:OK~13.567.078-2
+17:06:23.531,000,REQ:105~1~30
+17:06:23.534,000,RES:OK~Pulgar Derecho
+17:06:23.619,000,REQ:106~1~30
+17:06:35.356,000,ERR:TPAuto.HuellaCI.Exceptions.FingerprintTimeoutException: El tiempo para esperar la lectura de la huella ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 225
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 217
+17:06:35.356,000,RES:NOK~El tiempo para esperar la lectura de la huella ha expirado.
+17:06:53.206,000,REQ:104~1~30
+17:06:53.809,000,RES:OK~13.567.078-2
+17:06:53.899,000,REQ:105~1~30
+17:06:53.907,000,RES:OK~Pulgar Derecho
+17:06:53.986,000,REQ:106~1~30
+17:06:58.572,000,RES:OK~False
+17:11:50.867,000,REQ:104~1~30
+17:11:54.075,000,RES:OK~15932922-4
+17:11:54.161,000,REQ:105~1~30
+17:11:54.703,000,RES:OK~Indice Derecho
+17:11:54.801,000,REQ:106~1~30
+17:12:02.686,000,ERR:TPAuto.HuellaCI.Exceptions.SmartCardException: SCardTransmit error: -2146434967
+   at TPAuto.HuellaCI.SmartCard.Transmit(Byte[] apduCmd) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\SmartCard.cs:line 156
+   at TPAuto.HuellaCI.ValidadorCedulaNueva.HuellaEsValida(Byte[] huella) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorCedulaNueva.cs:line 37
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 285
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 217
+17:12:02.686,000,RES:NOK~SCardTransmit error: -2146434967
+17:12:16.872,000,REQ:104~1~30
+17:12:19.290,000,RES:OK~15932922-4
+17:12:19.361,000,REQ:105~1~30
+17:12:19.894,000,RES:OK~Indice Derecho
+17:12:19.997,000,REQ:106~1~30
+17:12:23.354,000,RES:OK~True
+17:13:39.560,000,REQ:104~1~30
+17:13:39.676,000,RES:OK~13.567.078-2
+17:13:39.762,000,REQ:105~1~30
+17:13:39.763,000,RES:OK~Pulgar Derecho
+17:13:39.846,000,REQ:106~1~30
+17:13:43.947,000,RES:OK~False
+17:14:41.956,000,REQ:104~1~30
+17:14:51.967,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 193
+17:14:51.972,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+17:15:01.121,000,REQ:104~1~30
+17:15:01.527,000,RES:OK~13.567.078-2
+17:15:01.607,000,REQ:105~1~30
+17:15:01.608,000,RES:OK~Pulgar Derecho
+17:15:01.677,000,REQ:106~1~30
+17:15:05.865,000,RES:OK~False
+17:23:37.760,000,REQ:104~1~30
+17:23:40.467,000,RES:OK~12.001.458-7
+17:23:40.553,000,REQ:105~1~30
+17:23:40.557,000,RES:OK~Pulgar Derecho
+17:23:40.650,000,REQ:106~1~30
+17:23:45.236,000,RES:OK~True
+17:24:37.900,000,REQ:101~pdf~http://172.20.3.80:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=9868765&e=96992030&r=1,9868765
+17:24:38.949,000,ERR:System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 172.20.3.80:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+17:24:38.949,000,RES:OK~9868765
+17:25:01.177,000,REQ:101~pdf~http://172.20.3.80:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=9753730&e=96992030&r=1,9753730
+17:25:02.191,000,ERR:System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 172.20.3.80:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+17:25:02.192,000,RES:OK~9753730
+17:25:46.325,000,REQ:101~pdf~http://172.20.3.80:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=9564728&e=96992030&r=1,9564728
+17:25:47.338,000,ERR:System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 172.20.3.80:8080
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+17:25:47.339,000,RES:OK~9564728
+17:26:50.845,000,REQ:104~1~30
+17:26:51.467,000,RES:OK~13.567.078-2
+17:26:51.558,000,REQ:105~1~30
+17:26:51.562,000,RES:OK~Pulgar Derecho
+17:26:51.643,000,REQ:106~1~30
+17:27:00.484,000,RES:OK~False
+17:27:25.794,000,REQ:104~1~30
+17:27:29.502,000,RES:OK~13.567.078-2
+17:27:29.591,000,REQ:105~1~30
+17:27:29.595,000,RES:OK~Pulgar Derecho
+17:27:29.674,000,REQ:106~1~30
+17:27:34.384,000,RES:OK~False
+17:28:02.788,000,REQ:104~1~30
+17:28:03.304,000,RES:OK~13.567.078-2
+17:28:03.400,000,REQ:105~1~30
+17:28:03.403,000,RES:OK~Pulgar Derecho
+17:28:03.482,000,REQ:106~1~30
+17:28:08.342,000,RES:OK~False
+17:28:15.387,000,REQ:104~1~30
+17:28:15.798,000,RES:OK~13.567.078-2
+17:28:15.901,000,REQ:105~1~30
+17:28:15.907,000,RES:OK~Pulgar Derecho
+17:28:15.997,000,REQ:106~1~30
+17:28:20.022,000,RES:OK~False
+17:28:28.530,000,REQ:104~1~30
+17:28:28.736,000,RES:OK~13.567.078-2
+17:28:28.811,000,REQ:105~1~30
+17:28:28.814,000,RES:OK~Pulgar Derecho
+17:28:28.899,000,REQ:106~1~30
+17:28:33.794,000,RES:OK~False
+17:28:53.564,000,REQ:104~1~30
+17:29:03.593,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 193
+17:29:03.598,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+17:29:08.001,000,REQ:104~1~30
+17:29:18.028,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 193
+17:29:18.033,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.

@@ -1,0 +1,46 @@
+
+10:54:44.276,I,000;Inicio de la clase
+10:54:55.942,F,000;AVN.Autoconsulta.core.ClienteDto
+
+10:54:56.199,I,000;Inicio de la clase
+
+10:54:56.213,I,000;Inicio Método
+10:54:57.136,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+10:54:57.167,Q,204;TP10PP001382041|REG|0|2017-08-24 10:54:57|2017-08-24 10:54:57|Saldo|Consulta Saldo|0|V|Consulta Saldo|13.055.173-4|0|0||||||0|0|||0||D7FB@
+10:54:57.214,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+10:54:57.214,I,000;Inicio Conexion BD
+10:54:57.214,F,000;AVN.Autoconsulta.core.ClienteDto
+10:54:57.232,I,000;Ejecución OK
+10:54:57.233,I,000;Termino de Consulta a la BD
+10:55:07.189,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+18:25:44.725,I,000;Inicio Método
+
+18:25:44.726,I,000;Inicio de la clase
+18:26:00.374,E,000;   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 71
+
+18:26:02.240,I,000;Inicio de la clase
+
+18:26:02.256,I,000;Inicio Método
+18:26:04.008,E,000;   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 71
+
+18:26:42.987,I,000;Inicio de la clase
+
+18:26:43.017,I,000;Inicio Método
+18:26:44.491,E,000;   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 71
+
+18:27:35.394,I,000;Inicio de la clase
+18:27:36.731,E,000;   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 71
+
+18:28:26.915,I,000;Inicio de la clase
+18:28:28.422,E,000;   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 71
+
+18:28:36.189,I,000;Inicio de la clase
+18:28:52.880,F,000;AVN.Autoconsulta.core.ClienteDto
+
+18:29:13.892,I,000;Inicio de la clase
+
+18:29:13.921,I,000;Inicio Método
+18:29:15.455,E,000;   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 71

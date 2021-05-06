@@ -1,0 +1,202 @@
+00:38:49.840,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+00:38:50.557,000,RES:OK~Archivo creado
+00:43:05.795,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+00:43:06.342,000,RES:OK~Archivo creado
+00:46:17.589,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+00:46:17.960,000,RES:OK~Archivo creado
+00:51:18.035,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+00:51:18.389,000,RES:OK~Archivo creado
+00:54:02.307,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+00:54:02.951,000,RES:OK~Archivo creado
+00:59:09.121,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+00:59:09.922,000,RES:OK~Archivo creado
+00:59:21.480,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+00:59:21.932,000,RES:OK~Archivo creado
+00:59:59.864,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+01:00:00.505,000,RES:OK~Archivo creado
+01:04:41.550,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+01:04:41.897,000,RES:OK~Archivo creado
+01:05:06.045,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+01:05:07.419,000,RES:OK~Archivo creado
+01:05:41.590,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+01:05:42.256,000,RES:OK~Archivo creado
+08:42:57.848,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04-01-2016,1.646,0,RODRIGO ECHEVERRIA
+08:42:57.851,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+08:42:57.852,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+08:43:28.098,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04-01-2016,1.646,0,RODRIGO ECHEVERRIA
+08:43:28.101,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+08:43:28.104,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+
+08:53:31.543,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 07-07-2017 18:56:17
+08:53:31.881,000,IOP:
+08:53:31.942,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045
+08:53:39.434,000,RES:OK~
+13:25:02.525,000,REQ:102~NII ExD NP-K3053~1522249,33708405,11-02-2015,2.723,0,CATALINA ANGELICA PEREZ
+13:25:02.676,000,RES:OK~Voucher impreso
+13:51:40.735,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33708405&e=96992030&r=1,33708405
+13:51:42.702,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+13:51:42.702,000,RES:OK~33708405
+13:52:00.652,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33708405&e=96992030&r=1,33708405
+13:52:10.625,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+13:52:10.628,000,RES:OK~33708405
+13:53:47.440,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33708405&e=96992030&r=1,33708405
+13:53:48.134,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+13:53:48.137,000,RES:OK~33708405
+13:54:52.372,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33708405&e=96992030&r=1,33708405
+13:54:52.504,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+13:54:52.505,000,RES:OK~33708405
+13:57:11.264,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33708405&e=96992030&r=1,33708405
+13:57:11.435,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+13:57:11.436,000,RES:OK~33708405
+14:15:20.062,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34038314&e=96992030&r=1,34038314;,124011943;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=30995132&e=96992030&r=1,30995132;,132012002;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33173388&e=96992030&r=1,33173388;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32844466&e=96992030&r=1,32844466
+14:15:20.362,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:15:20.374,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:15:20.563,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:15:20.567,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:15:21.163,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:15:21.386,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:15:21.390,000,RES:OK~34038314,124011943,30995132,132012002,33173388,32844466
+14:16:51.671,000,REQ:http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34038314&e=96992030&r=1,34038314;,124011943;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=30995132&e=96992030&r=1,30995132;,132012002;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33173388&e=96992030&r=1,33173388;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32844466&e=96992030&r=1,32844466
+14:16:51.683,000,ERR:System.InvalidCastException: El comando no es numérico
+   en PipeComponent.Model.Messages.MessageService.Parse(String s) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\Messages\MessageService.cs:línea 53
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 79
+14:16:51.686,000,RES:NOK~El comando no es numérico
+14:17:06.772,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34038314&e=96992030&r=1,34038314;,124011943;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=30995132&e=96992030&r=1,30995132;,132012002;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33173388&e=96992030&r=1,33173388;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32844466&e=96992030&r=1,32844466
+14:17:07.316,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:07.323,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:07.355,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:07.358,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:07.386,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:07.408,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:07.409,000,RES:OK~34038314,124011943,30995132,132012002,33173388,32844466
+14:17:19.213,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34038314&e=96992030&r=1,34038314;,124011943;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=30995132&e=96992030&r=1,30995132;,132012002;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33173388&e=96992030&r=1,33173388;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32844466&e=96992030&r=1,32844466
+14:17:22.792,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:22.795,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:22.816,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:22.820,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:22.841,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:22.863,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:17:35.947,000,RES:OK~34038314,124011943,30995132,132012002,33173388,32844466
+14:17:42.665,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34038314&e=96992030&r=1,34038314;,124011943;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=30995132&e=96992030&r=1,30995132;,132012002;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33173388&e=96992030&r=1,33173388;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32844466&e=96992030&r=1,32844466
+14:18:08.703,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:19:21.857,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:19:21.941,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:19:21.944,000,ERR:System.ArgumentException: La ruta de acceso no tiene un formato válido.
+   en System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   en System.IO.Path.GetFullPathInternal(String path)
+   en System.Net.WebClient.GetUri(String path)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:19:21.965,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:19:22.237,000,ERR:System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 107
+14:19:27.265,000,RES:OK~34038314,124011943,30995132,132012002,33173388,32844466
+14:26:10.544,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04;CPHH16,04-03-2013,20:00:12,12,04;CPHH16,04-03-2013,20:48:00,13,04;CPHH16,04-03-2013,22:19:47,14,04;CPHH16,04-03-2013,22:17:49,12,04;CPHH16,05-03-2013,00:16:59,15,04;CPHH16,05-03-2013,00:18:55,13,04;CPHH16,05-03-2013,14:58:09,11,04;CPHH16,05-03-2013,15:53:08,8,04;CPHH16,05-03-2013,18:42:09,7,04;CPHH16,05-03-2013,18:45:33,9,04;CPHH16,05-03-2013,19:07:58,8,04;CPHH16,05-03-2013,22:37:01,15,04;CPHH16,05-03-2013,22:39:01,13,04;CPHH16,06-03-2013,05:19:33,11,04;CPHH16,06-03-2013,18:39:18,13,04;CPHH16,07-03-2013,01:48:18,11,04;CPHH16,11-03-2013,11:00:51,12,04;CPHH16,11-03-2013,14:01:37,11,04;CPHH16,11-03-2013,14:00:03,13,04;CPHH16,11-03-2013,18:40:54,7,04;CPHH16,11-03-2013,18:44:00,9,04;CPHH16,11-03-2013,18:44:30,10,04;CPHH16,11-03-2013,18:46:25,12,04;CPHH16,11-03-2013,18:59:34,13,04;CPHH16,12-03-2013,10:07:30,12,04;CPHH16,12-03-2013,13:59:47,11,04;CPHH16,13-03-2013,10:34:48,1,04;CPHH16,13-03-2013,10:37:55,3,04;CPHH16,13-03-2013,10:40:19,5,04;CPHH16,13-03-2013,10:41:45,7,04;CPHH16,13-03-2013,10:44:45,9,04;CPHH16,13-03-2013,10:45:12,10,04
+14:26:11.455,000,RES:OK~Archivo creado

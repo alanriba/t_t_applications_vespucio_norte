@@ -1,0 +1,148 @@
+
+11:21:15.835,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 05-07-2017 11:25:03
+11:21:16.646,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+11:21:16.649,000,IOP:
+11:21:16.709,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:21:16.712,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:21:16.719,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:21:16.741,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:21:16.761,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:21:16.763,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:21:16.766,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:21:16.767,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:21:16.768,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:21:16.771,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:21:16.772,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:21:16.905,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:21:41.290,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:21:41.296,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:21:41.297,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:23:37.245,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:23:37.249,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:23:37.250,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:24:45.811,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:24:45.821,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:24:45.823,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:31:01.441,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:31:01.452,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:31:01.454,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:31:58.855,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:31:58.867,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:31:58.869,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:33:47.274,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:33:47.289,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:33:47.290,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:34:30.321,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:34:30.361,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:34:30.362,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:35:21.949,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:35:21.956,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:35:21.957,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:37:06.716,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:37:06.725,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:37:06.726,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:37:59.181,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:37:59.187,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:37:59.188,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:38:53.311,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:38:53.328,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:38:53.328,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:39:30.598,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17-10-2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27-10-2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+11:39:30.602,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:39:30.603,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+
+13:58:18.232,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 13:37:05
+13:58:18.320,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+13:58:25.387,000,IOP:
+13:58:26.386,000,REQ:107~3~BGXT65,01-01-2015,,,AVN;BGXT65,04-01-2015,,,AVN;BGXT65,14-01-2015,,,AVN
+
+13:59:34.019,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 13:37:05
+13:59:34.079,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+13:59:45.272,000,IOP:
+
+14:00:02.365,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 13:37:05
+14:00:02.425,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+14:00:43.582,000,IOP:
+
+14:00:52.045,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 13:37:05
+14:00:52.083,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+14:01:00.107,000,IOP:
+
+16:49:17.021,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 16:47:36
+16:49:17.036,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   at PipeComponent.Peripherals.ThermalPrinter..ctor() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:line 30
+   at PipeComponent.PipeServer..ctor(String pipeName) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 36
+16:49:17.041,000,IOP:
+
+16:57:49.968,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 16:47:36
+16:57:49.998,000,IOP:
+
+17:04:53.924,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 17:04:23
+17:04:53.964,000,IOP:
+17:05:16.178,000,REQ:107~3~CPHH16,06/11/2014,06:02:41,13,AVN;CPHH16,21/11/2014,06:04:42,11,AVN;CPHH16,01/12/2014,06:05:59,8,AVN;CPHH16,04/12/2014,07:16:41,6,AVN;CPHH16,05/12/2014,07:18:56,4,AVN;CPHH16,06/12/2014,07:20:54,2,AVN;CPHH16,08/12/2014,23:14:35,11,AVN;CPHH16,09/12/2014,23:13:19,13,AVN;CPHH16,10/12/2014,08:44:34,10,AVN;CPHH16,11/12/2014,08:46:37,12,AVN;CPHH16,12/12/2014,00:48:02,8,AVN;CPHH16,13/12/2014,00:46:58,11,AVN;CPHH16,14/12/2014,00:45:31,13,AVN;CPHH16,15/12/2014,01:09:09,9,AVN;CPHH16,16/12/2014,01:09:32,10,AVN;CPHH16,18/12/2014,01:11:15,12,AVN;CPHH16,19/12/2014,12:21:55,12,AVN;CPHH16,20/12/2014,11:56:18,12,AVN;CPHH16,21/12/2014,13:31:44,12,AVN;CPHH16,22/12/2014,14:34:22,13,AVN;CPHH16,23/12/2014,16:28:25,13,AVN;CPHH16,24/12/2014,17:41:21,11,AVN;CPHH16,27/12/2014,20:36:56,13,AVN;CPHH16,28/12/2014,15:23:21,11,AVN;CPHH16,30/12/2014,21:06:06,11,AVN;CPHH16,31/12/2014,16:57:25,11,AVN;CPHH16,01/01/2015,11:47:49,11,AVN;CPHH16,02/01/2015,00:36:54,11,AVN;CPHH16,03/01/2015,01:42:15,13,AVN;CPHH16,05/01/2015,05:57:55,11,AVN;CPHH16,06/01/2015,15:10:40,8,AVN-TSC;CPHH16,07/01/2015,15:09:32,11,AVN;CPHH16,08/01/2015,16:26:44,7,AVN;CPHH16,09/01/2015,16:31:48,9,AVN;CPHH16,17/01/2015,16:32:36,10,AVN;CPHH16,18/01/2015,19:15:33,8,AVN;CPHH16,19/01/2015,19:45:42,7,AVN;CPHH16,20/01/2015,19:48:55,9,AVN;CPHH16,21/01/2015,00:05:32,8,AVN
+17:05:17.224,000,RES:OK~Archivo creado
+
+17:09:39.356,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 06-07-2017 17:07:20
+17:09:39.401,000,IOP:
+17:09:42.601,000,REQ:107~3~CPHH16,06/11/2014,06:02:41,13,AVN;CPHH16,21/11/2014,06:04:42,11,AVN;CPHH16,01/12/2014,06:05:59,8,AVN;CPHH16,04/12/2014,07:16:41,6,AVN;CPHH16,05/12/2014,07:18:56,4,AVN;CPHH16,06/12/2014,07:20:54,2,AVN;CPHH16,08/12/2014,23:14:35,11,AVN;CPHH16,09/12/2014,23:13:19,13,AVN;CPHH16,10/12/2014,08:44:34,10,AVN;CPHH16,11/12/2014,08:46:37,12,AVN;CPHH16,12/12/2014,00:48:02,8,AVN;CPHH16,13/12/2014,00:46:58,11,AVN;CPHH16,14/12/2014,00:45:31,13,AVN;CPHH16,15/12/2014,01:09:09,9,AVN;CPHH16,16/12/2014,01:09:32,10,AVN;CPHH16,18/12/2014,01:11:15,12,AVN;CPHH16,19/12/2014,12:21:55,12,AVN;CPHH16,20/12/2014,11:56:18,12,AVN;CPHH16,21/12/2014,13:31:44,12,AVN;CPHH16,22/12/2014,14:34:22,13,AVN;CPHH16,23/12/2014,16:28:25,13,AVN;CPHH16,24/12/2014,17:41:21,11,AVN;CPHH16,27/12/2014,20:36:56,13,AVN;CPHH16,28/12/2014,15:23:21,11,AVN;CPHH16,30/12/2014,21:06:06,11,AVN;CPHH16,31/12/2014,16:57:25,11,AVN;CPHH16,01/01/2015,11:47:49,11,AVN;CPHH16,02/01/2015,00:36:54,11,AVN;CPHH16,03/01/2015,01:42:15,13,AVN;CPHH16,05/01/2015,05:57:55,11,AVN;CPHH16,06/01/2015,15:10:40,8,AVN-TSC;CPHH16,07/01/2015,15:09:32,11,AVN;CPHH16,08/01/2015,16:26:44,7,AVN;CPHH16,09/01/2015,16:31:48,9,AVN;CPHH16,17/01/2015,16:32:36,10,AVN;CPHH16,18/01/2015,19:15:33,8,AVN;CPHH16,19/01/2015,19:45:42,7,AVN;CPHH16,20/01/2015,19:48:55,9,AVN;CPHH16,21/01/2015,00:05:32,8,AVN
+17:09:43.632,000,RES:OK~Archivo creado
+17:25:59.585,000,REQ:107~3~BGXT65,01/01/2015,26/01/2015,AVN;BGXT65,04/01/2015,29/01/2015,AVN;BGXT65,14/01/2015,08/02/2015,AVN
+17:25:59.968,000,RES:OK~Archivo creado
+17:27:16.793,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,0,RODRIGO ECHEVERRIA
+17:27:16.932,000,RES:OK~Voucher impreso
+17:27:58.044,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,0,RODRIGO ECHEVERRIA
+17:27:58.178,000,RES:OK~Voucher impreso
+18:07:38.688,000,REQ:107~3~BGXT65,01/01/2015,26/01/2015,AVN;BGXT65,04/01/2015,29/01/2015,AVN;BGXT65,14/01/2015,08/02/2015,AVN
+18:07:39.366,000,RES:OK~Archivo creado
+18:08:11.331,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,04;CPHH16,01/03/2013,00:04:21,11,04;CPHH16,04/03/2013,14:01:51,8,04;CPHH16,04/03/2013,14:00:52,11,04;CPHH16,04/03/2013,19:55:11,7,04;CPHH16,04/03/2013,19:57:55,9,04;CPHH16,04/03/2013,19:58:22,10,04
+18:08:11.751,000,ERR:System.IO.IOException: The document has no pages.
+   at iTextSharp.text.pdf.PdfPages.WritePageTree()
+   at iTextSharp.text.pdf.PdfWriter.Close()
+   at iTextSharp.text.DocWriter.Dispose()
+   at PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocumentFromHtml(String templatePath, String filename, String data, DocumentType documentType) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:line 51
+   at PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocument(DocumentType documentType, String data, String templateName, String filename) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:line 27
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 250
+18:08:11.752,000,RES:NOK~The document has no pages.
+18:08:41.392,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,04;CPHH16,01/03/2013,00:04:21,11,04;CPHH16,04/03/2013,14:01:51,8,04;CPHH16,04/03/2013,14:00:52,11,04;CPHH16,04/03/2013,19:55:11,7,04;CPHH16,04/03/2013,19:57:55,9,04;CPHH16,04/03/2013,19:58:22,10,04
+18:08:41.623,000,ERR:System.IO.IOException: The document has no pages.
+   at iTextSharp.text.pdf.PdfPages.WritePageTree()
+   at iTextSharp.text.pdf.PdfWriter.Close()
+   at iTextSharp.text.DocWriter.Dispose()
+   at PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocumentFromHtml(String templatePath, String filename, String data, DocumentType documentType) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:line 51
+   at PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocument(DocumentType documentType, String data, String templateName, String filename) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:line 27
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 250
+18:08:41.624,000,RES:NOK~The document has no pages.
+18:12:58.232,000,REQ:102~NII ExD NP-K3053~1000252918,900300278670,17/10/2011,638.425,0,MAURICIO ANTONIO RODRIGUEZ;1157432,34038314,27/10/2016,80.706,0,MAURICIO ANTONIO RODRIGUEZ
+18:12:58.500,000,RES:OK~Voucher impreso
+18:14:28.684,000,REQ:102~NII ExD NP-K3053~1100942945,900300272566,30/09/2011,271.942,0,RICARDO ERNESTO SANZO
+18:14:28.814,000,RES:OK~Voucher impreso
+18:15:15.500,000,REQ:102~NII ExD NP-K3053~1100942945,900300272566,30/09/2011,271.942,0,RICARDO ERNESTO SANZO
+18:15:15.625,000,RES:OK~Voucher impreso
+18:17:01.862,000,REQ:102~NII ExD NP-K3053~1000236286,497459,21/01/2015,108.757,0,  SOC CONCESIONARIA VESPUCIO NORTE   S A
+18:17:01.989,000,RES:OK~Voucher impreso

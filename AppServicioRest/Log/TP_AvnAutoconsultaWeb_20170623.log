@@ -1,0 +1,215 @@
+
+09:28:49.418,I,000;Inicio Método
+09:28:51.011,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:28:51.048,Q,204;TP10PP001382041|REG|0|2017-06-23 09:28:51|2017-06-23 09:28:51|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7EB@
+09:29:01.057,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:39:08.396,I,000;Inicio Método
+09:39:10.043,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:39:10.045,Q,204;TP10PP001382041|REG|0|2017-06-23 09:39:10|2017-06-23 09:39:10|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7F1@
+09:39:20.045,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:42:10.162,I,000;Inicio Método
+09:42:11.849,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:42:11.850,Q,204;TP10PP001382041|REG|0|2017-06-23 09:42:11|2017-06-23 09:42:11|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7FB@
+
+09:42:18.008,I,000;Inicio Método
+09:42:19.687,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:42:19.690,Q,204;TP10PP001382041|REG|0|2017-06-23 09:42:19|2017-06-23 09:42:19|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7EB@
+09:42:21.865,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+09:42:29.680,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:45:35.536,I,000;Inicio Método
+09:45:35.587,I,000;Inicio Conexion BD
+09:45:35.661,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 49
+09:45:37.187,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:45:37.202,Q,204;TP10PP001382041|REG|0|2017-06-23 09:45:37|2017-06-23 09:45:37|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7E5@
+09:45:47.193,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:48:27.956,I,000;Inicio Método
+09:48:27.963,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+09:48:27.983,I,000;Inicio Conexion BD
+09:48:28.068,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+09:48:29.902,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:48:29.921,Q,204;TP10PP001382041|REG|0|2017-06-23 09:48:29|2017-06-23 09:48:29|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7DD@
+09:48:39.917,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:49:55.163,I,000;Inicio Método
+09:49:55.168,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+09:49:55.170,I,000;Inicio Conexion BD
+09:49:55.173,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+09:49:56.706,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:49:56.712,Q,204;TP10PP001382041|REG|0|2017-06-23 09:49:56|2017-06-23 09:49:56|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7DB@
+09:50:06.748,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:52:25.435,I,000;Inicio Método
+09:52:25.442,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+09:52:25.446,I,000;Inicio Conexion BD
+09:52:25.464,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+09:52:27.047,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:52:27.051,Q,204;TP10PP001382041|REG|0|2017-06-23 09:52:27|2017-06-23 09:52:27|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7EB@
+09:52:37.055,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+09:52:38.714,I,000;Inicio Método
+09:52:38.720,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+09:52:38.722,I,000;Inicio Conexion BD
+09:52:38.728,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+09:52:40.227,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+09:52:40.232,Q,204;TP10PP001382041|REG|0|2017-06-23 09:52:40|2017-06-23 09:52:40|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D7F5@
+09:52:50.236,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+
+10:11:23.602,I,000;Inicio Método
+10:11:23.612,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+10:11:23.613,I,000;Inicio Conexion BD
+10:11:23.616,E,000;   at Npgsql.NpgsqlState.<ProcessBackendResponses>d__0.MoveNext()
+   at Npgsql.ForwardsOnlyDataReader.GetNextResponseObject(Boolean cleanup)
+   at Npgsql.ForwardsOnlyDataReader.GetNextRowDescription()
+   at Npgsql.ForwardsOnlyDataReader.NextResultInternal()
+   at Npgsql.ForwardsOnlyDataReader..ctor(IEnumerable`1 dataEnumeration, CommandBehavior behavior, NpgsqlCommand command, NotificationThreadBlock threadBlock, Boolean preparedStatement, NpgsqlRowDescription rowDescription)
+   at Npgsql.NpgsqlCommand.GetReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior cb)
+   at Npgsql.NpgsqlCommand.ExecuteReader()
+   at AVN.Autoconsulta.core.GeneralDao.GetMensaje(String pTipoMsg, String pCat, Int32 pModulo) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\general\GeneralDao.cs:line 50
+10:11:25.431,R,000;AVN.Autoconsulta.core.SVC_AVN_1_2.responseConsultaInfoTagDTO
+10:11:25.432,Q,204;TP10PP001382041|REG|0|2017-06-23 10:11:25|2017-06-23 10:11:25|Saldo|Consulta Saldo|0|V|Consulta Saldo|15.958.339-2|0|0||||||0|0|||0||D809@
+10:11:35.425,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:12:12.415,Q,204;TP10PP001862041|REG|0|2017-06-23 10:12:12|2017-06-23 10:12:12|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3D1@
+10:12:13.219,Q,204;TP10PP001772041|REG|0|2017-06-23 10:12:13|2017-06-23 10:12:13|Transitos Facturados|Consulta Transitos Facturados|0|V|Consulta Transitos Facturados|cphh16|0|0||||||0|0|||0||C666@
+10:12:13.229,Q,204;TP10PP001862041|REG|0|2017-06-23 10:12:13|2017-06-23 10:12:13|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3CF@
+10:12:18.944,Q,204;TP10PP001862041|REG|0|2017-06-23 10:12:18|2017-06-23 10:12:18|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|CPHH16|0|0||||||0|0|||0||C445@
+10:12:22.413,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:12:23.209,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:12:23.240,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:12:28.934,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:13:10.254,Q,204;TP10PP001792041|REG|0|2017-06-23 10:13:10|2017-06-23 10:13:10|Transitos Facturados|Impresion Transitos Facturados|0|V|Impresion Transitos Facturados|CPHH16|0|0||||||0|0|||0||C60E@
+10:13:20.242,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:13:27.651,Q,204;TP10PP001862041|REG|0|2017-06-23 10:13:27|2017-06-23 10:13:27|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3C3@
+10:13:28.164,Q,204;TP10PP001862041|REG|0|2017-06-23 10:13:28|2017-06-23 10:13:28|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3C1@
+10:13:28.236,Q,204;TP10PP001772041|REG|0|2017-06-23 10:13:28|2017-06-23 10:13:28|Transitos Facturados|Consulta Transitos Facturados|0|V|Consulta Transitos Facturados|cphh16|0|0||||||0|0|||0||C658@
+10:13:30.991,Q,204;TP10PP001772041|REG|0|2017-06-23 10:13:30|2017-06-23 10:13:30|Transitos Facturados|Consulta Transitos Facturados|0|V|Consulta Transitos Facturados|CPHH16|0|0||||||0|0|||0||C6E6@
+10:13:31.373,Q,204;TP10PP001792041|REG|0|2017-06-23 10:13:31|2017-06-23 10:13:31|Transitos Facturados|Impresion Transitos Facturados|0|V|Impresion Transitos Facturados|CPHH16|0|0||||||0|0|||0||C608@
+10:13:37.668,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:13:38.214,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:13:38.245,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:13:40.990,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:13:41.365,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:08.809,Q,204;TP10PP001862041|REG|0|2017-06-23 10:15:08|2017-06-23 10:15:08|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3C1@
+10:15:09.312,Q,204;TP10PP001862041|REG|0|2017-06-23 10:15:09|2017-06-23 10:15:09|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3BF@
+10:15:09.359,Q,204;TP10PP001772041|REG|0|2017-06-23 10:15:09|2017-06-23 10:15:09|Transitos Facturados|Consulta Transitos Facturados|0|V|Consulta Transitos Facturados|cphh16|0|0||||||0|0|||0||C656@
+10:15:10.823,Q,204;TP10PP001862041|REG|0|2017-06-23 10:15:10|2017-06-23 10:15:10|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|CPHH16|0|0||||||0|0|||0||C44F@
+10:15:18.850,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:19.302,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:19.380,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:20.816,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:22.907,Q,204;TP10PP001792041|REG|0|2017-06-23 10:15:22|2017-06-23 10:15:22|Transitos Facturados|Impresion Transitos Facturados|0|V|Impresion Transitos Facturados|CPHH16|0|0||||||0|0|||0||C604@
+10:15:32.905,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:34.428,Q,204;TP10PP001862041|REG|0|2017-06-23 10:15:34|2017-06-23 10:15:34|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3C3@
+10:15:34.956,Q,204;TP10PP001862041|REG|0|2017-06-23 10:15:34|2017-06-23 10:15:34|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|cphh16|0|0||||||0|0|||0||C3C3@
+10:15:34.994,Q,204;TP10PP001772041|REG|0|2017-06-23 10:15:34|2017-06-23 10:15:34|Transitos Facturados|Consulta Transitos Facturados|0|V|Consulta Transitos Facturados|cphh16|0|0||||||0|0|||0||C65A@
+10:15:36.727,Q,204;TP10PP001862041|REG|0|2017-06-23 10:15:36|2017-06-23 10:15:36|Transitos No Facturados|Consulta Transitos No Facturados|0|V|Consulta Transitos No Facturados|CPHH16|0|0||||||0|0|||0||C43F@
+10:15:37.730,Q,204;TP10PP001792041|REG|0|2017-06-23 10:15:37|2017-06-23 10:15:37|Transitos Facturados|Impresion Transitos Facturados|0|V|Impresion Transitos Facturados|CPHH16|0|0||||||0|0|||0||C5F8@
+10:15:44.418,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:44.949,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:45.011,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:46.727,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98
+10:15:47.725,E,204;System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:line 98

@@ -1,0 +1,187 @@
+
+14:25:33.432,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 27-06-2017 14:25:31
+14:25:34.108,000,IOP:
+14:25:34.170,000,REQ:104~1~30
+14:25:34.180,000,REQ:104~1~30
+14:25:34.221,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:25:34.222,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:25:34.223,000,RES:NOK~El puerto 'COM11' no existe.
+14:25:34.223,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:28.087,000,REQ:104~1~30
+14:28:28.096,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:28.097,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:34.901,000,REQ:104~1~30
+14:28:34.916,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:34.917,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:36.326,000,REQ:104~1~30
+14:28:36.341,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:36.343,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:40.020,000,REQ:104~1~30
+14:28:40.033,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:40.034,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:41.308,000,REQ:104~1~30
+14:28:41.318,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:41.319,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:43.400,000,REQ:104~1~30
+14:28:43.429,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:43.430,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:44.262,000,REQ:104~1~30
+14:28:44.274,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:44.275,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:44.570,000,REQ:104~1~30
+14:28:44.576,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:44.577,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:44.785,000,REQ:104~1~30
+14:28:44.796,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:44.797,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:44.992,000,REQ:104~1~30
+14:28:45.001,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:45.002,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:45.209,000,REQ:104~1~30
+14:28:45.214,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:45.216,000,RES:NOK~El puerto 'COM11' no existe.
+14:28:45.406,000,REQ:104~1~30
+14:28:45.411,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:28:45.411,000,RES:NOK~El puerto 'COM11' no existe.
+14:29:13.561,000,REQ:104~1~30
+14:29:13.566,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:29:13.567,000,RES:NOK~El puerto 'COM11' no existe.
+14:30:25.394,000,REQ:104~1~30
+14:30:25.412,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:30:25.413,000,RES:NOK~El puerto 'COM11' no existe.
+14:30:39.105,000,REQ:104~1~30
+14:30:39.128,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:30:39.129,000,RES:NOK~El puerto 'COM11' no existe.
+14:30:43.591,000,REQ:104~1~30
+14:30:43.603,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:30:43.605,000,RES:NOK~El puerto 'COM11' no existe.
+14:30:48.175,000,REQ:104~1~30
+14:30:48.192,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:30:48.193,000,RES:NOK~El puerto 'COM11' no existe.
+14:30:51.515,000,REQ:104~1~30
+14:30:51.530,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:30:51.531,000,RES:NOK~El puerto 'COM11' no existe.
+14:31:18.411,000,REQ:104~1~30
+14:31:18.415,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:31:18.416,000,RES:NOK~El puerto 'COM11' no existe.
+14:31:20.963,000,REQ:104~1~30
+14:31:20.968,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:31:20.969,000,RES:NOK~El puerto 'COM11' no existe.
+14:31:28.064,000,REQ:104~1~30
+14:31:28.083,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+14:31:28.084,000,RES:NOK~El puerto 'COM11' no existe.

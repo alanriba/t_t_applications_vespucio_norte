@@ -1,0 +1,334 @@
+
+11:28:08.000,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 11:28:05
+11:28:08.132,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 29
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+11:28:08.178,000,IOP:
+11:30:58.259,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+11:30:59.796,000,ERR:System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+11:30:59.797,000,RES:NOK~Referencia a objeto no establecida como instancia de un objeto.
+11:31:13.757,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+
+11:32:27.012,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 11:32:26
+11:32:27.106,000,IOP:
+11:32:28.931,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+11:32:35.319,000,RES:OK~Voucher impreso
+
+11:38:46.688,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 11:38:46
+11:38:46.816,000,IOP:
+11:38:47.962,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+
+11:51:18.761,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 11:51:18
+11:51:18.949,000,IOP:
+11:51:25.643,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes
+
+11:52:18.992,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 11:51:18
+11:52:19.052,000,IOP:
+11:52:23.215,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+11:52:32.518,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 11:51:18
+11:52:32.657,000,IOP:
+11:52:35.441,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:00:16.268,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:00:15
+12:00:16.345,000,IOP:
+12:00:19.349,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:02:40.471,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:02:39
+12:02:40.546,000,IOP:
+12:02:41.882,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:02:41.911,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:02:41.914,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:03:05.346,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:03:13.176,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:03:13.187,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:03:18.665,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:03:34.505,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:03:34.515,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:03:38.844,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:04:21.191,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:04:20
+12:04:21.314,000,IOP:
+12:04:22.073,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:04:27.767,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:04:27.772,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+
+12:05:01.285,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:05:00
+12:05:01.398,000,IOP:
+12:05:05.387,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:05:11.124,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:05:00
+12:05:11.263,000,IOP:
+12:05:12.657,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:06:28.643,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:06:27
+12:06:28.723,000,IOP:
+12:06:33.909,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:06:44.192,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:06:43
+12:06:44.237,000,IOP:
+12:06:45.824,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:07:57.637,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:07:56
+12:07:57.709,000,IOP:
+12:08:00.524,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:08:10.161,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:07:56
+12:08:10.212,000,IOP:
+12:08:12.180,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:08:23.118,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:07:56
+12:08:23.277,000,IOP:
+12:08:24.679,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:08:49.980,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:08:49
+12:08:50.096,000,IOP:
+12:08:51.633,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:09:12.097,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:09:11
+12:09:12.163,000,IOP:
+12:09:18.679,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:09:34.235,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:09:11
+12:09:34.292,000,IOP:
+12:09:35.608,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:12:15.165,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:12:14
+12:12:15.294,000,IOP:
+12:12:19.058,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:13:12.495,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:12:14
+12:13:12.563,000,IOP:
+12:13:14.411,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:14:07.775,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:14:07
+12:14:07.902,000,IOP:
+12:14:09.874,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+12:14:18.741,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:14:18.756,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:14:27.059,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:15:31.478,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:15:30
+12:15:31.525,000,IOP:
+12:15:33.224,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+12:15:42.215,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 133
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:15:42.231,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:15:45.668,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:19:08.466,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:19:07
+12:19:08.526,000,IOP:
+12:19:17.833,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:19:27.591,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:19:07
+12:19:27.751,000,IOP:
+12:19:32.311,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:25:23.474,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:25:22
+12:25:23.532,000,IOP:
+
+12:25:33.880,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:25:33
+12:25:33.945,000,IOP:
+12:25:35.763,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+12:25:47.632,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 135
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:25:47.636,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:25:50.576,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:26:22.267,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:26:21
+12:26:22.312,000,IOP:
+12:26:26.134,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:26:39.457,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:26:38
+12:26:39.528,000,IOP:
+12:26:40.957,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:27:09.575,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:27:09
+12:27:09.701,000,IOP:
+12:27:12.264,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+
+12:31:46.103,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:31:45
+12:31:46.165,000,IOP:
+12:31:47.936,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+12:31:50.749,000,RES:OK~Voucher impreso
+
+12:32:08.113,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:32:07
+12:32:08.172,000,IOP:
+12:32:09.975,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrerO
+12:32:10.096,000,RES:OK~Voucher impreso
+
+12:35:04.583,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:35:03
+12:35:04.628,000,IOP:
+12:35:08.778,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:35:26.701,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 136
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:35:26.733,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:35:30.503,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:35:52.507,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:35:03
+12:35:52.642,000,IOP:
+12:35:58.336,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:36:12.719,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:36:12
+12:36:12.800,000,IOP:
+12:36:16.550,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:36:30.841,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:36:12
+12:36:31.051,000,IOP:
+12:36:33.089,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:38:08.852,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:38:08
+12:38:08.901,000,IOP:
+12:38:10.874,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:39:26.435,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:38:08
+12:39:26.497,000,IOP:
+12:39:29.655,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:41:25.984,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:41:25
+12:41:26.106,000,IOP:
+12:41:28.500,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:41:53.926,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:41:53
+12:41:53.981,000,IOP:
+12:41:59.388,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:42:40.597,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:42:40
+12:42:40.659,000,IOP:
+12:42:43.256,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:46:16.701,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:46:16
+12:46:16.828,000,IOP:
+12:46:19.179,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:48:01.526,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:48:00
+12:48:01.597,000,IOP:
+12:48:04.554,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:49:16.206,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:49:15
+12:49:16.272,000,IOP:
+12:49:17.973,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:49:36.227,000,ERR:System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+   en System.String.Substring(Int32 startIndex, Int32 length)
+   en PipeComponent.Peripherals.ThermalPrinter.ImprimirDeuda(String parametros) en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 136
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 135
+12:49:36.231,000,RES:NOK~El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+12:49:39.408,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:51:42.140,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:51:41
+12:51:42.267,000,IOP:
+12:51:43.893,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:52:35.131,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:52:34
+12:52:35.195,000,IOP:
+12:52:37.118,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:53:07.900,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:53:07
+12:53:07.983,000,IOP:
+12:53:10.801,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:55:20.221,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:53:07
+12:55:20.299,000,IOP:
+12:55:21.252,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+
+12:57:27.951,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:57:27
+12:57:28.005,000,IOP:
+12:57:30.334,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:57:59.803,000,RES:OK~Voucher impreso
+12:58:12.498,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero Osvaldo Guerrero Salgado de las mercerdes guerrero
+12:58:14.716,000,RES:OK~Voucher impreso
+
+13:14:17.744,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 12:57:27
+13:14:17.788,000,IOP:
+13:14:56.218,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+13:14:56.342,000,RES:OK~Voucher impreso
+13:15:06.141,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero12112312312312321312312312313
+13:15:06.310,000,RES:OK~Voucher impreso
+13:15:15.528,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero1211231231231232131231231231
+13:15:15.657,000,RES:OK~Voucher impreso
+
+15:12:54.059,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:12:52
+
+15:46:53.499,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:46:52
+15:46:53.806,000,IOP:
+
+15:51:15.539,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:46:52
+15:51:16.027,000,IOP:
+
+16:38:42.435,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:46:52
+16:38:42.538,000,IOP:
+16:40:04.416,000,REQ:102~NII ExD NP-K105~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+16:40:04.430,000,RES:OK~Voucher impreso
+
+16:49:29.567,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:46:52
+16:49:29.610,000,IOP:
+16:49:38.999,000,REQ:102~NII ExD NP-K105~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+16:49:39.013,000,RES:OK~Voucher impreso
+16:51:58.645,000,REQ:102~NII ExD NP-K105~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+16:51:58.665,000,RES:OK~Voucher impreso
+16:52:17.992,000,REQ:102~NII ExD NP-K105~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+16:56:39.020,000,RES:OK~Voucher impreso
+16:56:45.413,000,REQ:102~NII ExD NP-K105~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+16:57:21.545,000,RES:OK~Voucher impreso
+
+17:11:01.737,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:46:52
+17:11:01.803,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\Proyectos\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\Proyectos\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+
+17:11:38.188,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 15:46:52
+17:11:38.288,000,IOP:
+17:11:41.857,000,REQ:102~NII ExD NP-K105~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+17:11:43.587,000,RES:OK~Voucher impreso
+17:12:08.071,000,REQ:102~NII ExD NP-K3053~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+17:12:09.774,000,RES:OK~Voucher impreso
+
+17:14:30.830,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 17:14:30
+17:14:37.042,000,IOP:
+17:14:44.634,000,REQ:102~NII ExD NP-K1233~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+17:14:49.145,000,RES:OK~Voucher impreso
+17:15:00.840,000,REQ:102~~1117111, 11111111, 02/02/2017, 7,6, Osvaldo Guerrero
+17:15:00.958,000,RES:OK~Voucher impreso
+
+17:16:51.988,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 04-07-2017 17:16:51
+17:16:52.052,000,IOP:

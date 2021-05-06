@@ -1,0 +1,132 @@
+
+18:11:36.023,I,000;Inicio de la clase
+18:11:57.157,E,000;
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at AVN.Autoconsulta.core.SVC_AVN_1_2.ConsultaInfoTagWS.ZRFC_INFORMACION_TAG(ZRFC_INFORMACION_TAG request)
+   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 58
+18:11:57.359,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:11:57.381,I,000;Inicio Conexion BD
+18:11:57.468,I,000;Ejecución OK
+18:11:57.470,I,000;Termino de Consulta a la BD
+18:11:57.608,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:11:57.610,I,000;Inicio Conexion BD
+18:11:57.613,I,000;Ejecución OK
+18:11:57.614,I,000;Termino de Consulta a la BD
+18:11:57.687,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:11:57.687,I,000;Inicio Conexion BD
+18:11:57.687,I,000;Ejecución OK
+18:11:57.687,I,000;Termino de Consulta a la BD
+18:11:57.741,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:11:57.741,I,000;Inicio Conexion BD
+18:11:57.741,I,000;Ejecución OK
+18:11:57.741,I,000;Termino de Consulta a la BD
+18:11:57.822,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:11:57.822,I,000;Inicio Conexion BD
+18:11:57.837,I,000;Ejecución OK
+18:11:57.837,I,000;Termino de Consulta a la BD
+
+18:20:16.243,I,000;Inicio de la clase
+18:20:37.282,E,000;
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at AVN.Autoconsulta.core.SVC_AVN_1_2.ConsultaInfoTagWS.ZRFC_INFORMACION_TAG(ZRFC_INFORMACION_TAG request)
+   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 58
+18:20:37.308,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:20:37.312,I,000;Inicio Conexion BD
+18:20:37.315,I,000;Ejecución OK
+18:20:37.317,I,000;Termino de Consulta a la BD
+18:20:37.389,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:20:37.395,I,000;Inicio Conexion BD
+18:20:37.401,I,000;Ejecución OK
+18:20:37.417,I,000;Termino de Consulta a la BD
+18:20:37.474,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:20:37.474,I,000;Inicio Conexion BD
+18:20:37.474,I,000;Ejecución OK
+18:20:37.474,I,000;Termino de Consulta a la BD
+18:20:37.544,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:20:37.559,I,000;Inicio Conexion BD
+18:20:37.559,I,000;Ejecución OK
+18:20:37.559,I,000;Termino de Consulta a la BD
+18:20:37.617,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:20:37.619,I,000;Inicio Conexion BD
+18:20:37.623,I,000;Ejecución OK
+18:20:37.625,I,000;Termino de Consulta a la BD
+
+18:33:47.829,I,000;Inicio de la clase
+18:34:08.907,E,000;
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at AVN.Autoconsulta.core.SVC_AVN_1_2.ConsultaInfoTagWS.ZRFC_INFORMACION_TAG(ZRFC_INFORMACION_TAG request)
+   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 58
+18:34:08.923,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:34:08.925,I,000;Inicio Conexion BD
+18:34:08.928,I,000;Ejecución OK
+18:34:08.930,I,000;Termino de Consulta a la BD
+18:34:09.000,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:34:09.006,I,000;Inicio Conexion BD
+18:34:09.009,I,000;Ejecución OK
+18:34:09.011,I,000;Termino de Consulta a la BD
+18:34:09.070,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:34:09.070,I,000;Inicio Conexion BD
+18:34:09.070,I,000;Ejecución OK
+18:34:09.070,I,000;Termino de Consulta a la BD
+18:34:09.132,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:34:09.135,I,000;Inicio Conexion BD
+18:34:09.139,I,000;Ejecución OK
+18:34:09.142,I,000;Termino de Consulta a la BD
+18:34:09.219,I,000;Server=localhost;Port=5432;Database=Pago;User ID=TpackP;Password=tpackp
+18:34:09.219,I,000;Inicio Conexion BD
+18:34:09.250,I,000;Ejecución OK
+18:34:09.250,I,000;Termino de Consulta a la BD
+
+18:34:27.317,I,000;Inicio de la clase
+18:34:48.352,E,000;
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpOutput.WebRequestHttpOutput.GetOutputStream()
+   at System.ServiceModel.Channels.HttpOutput.Send(TimeSpan timeout)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.SendRequest(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at AVN.Autoconsulta.core.SVC_AVN_1_2.ConsultaInfoTagWS.ZRFC_INFORMACION_TAG(ZRFC_INFORMACION_TAG request)
+   at AVN.Autoconsulta.core.GetAVN.AVN.Autoconsulta.core.IGetAVN.GetInformacionCliente(String pRut) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVN.Autoconsulta.DAO\GetAVN.cs:line 58

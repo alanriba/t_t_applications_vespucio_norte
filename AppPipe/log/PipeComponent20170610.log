@@ -1,0 +1,98 @@
+
+00:00:22.231,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 09-06-2017 18:15:17
+00:00:22.450,000,IOP:
+00:00:25.792,000,REQ:107~1,2,3,4;5,6,7,8
+00:00:26.507,000,RES:OK~Archivo creado
+
+00:06:07.770,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:06:07
+00:06:07.974,000,IOP:
+00:06:12.064,000,REQ:107~1,2,3,4;5,6,7,8
+
+00:09:05.899,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:09:05
+00:09:06.116,000,IOP:
+00:09:12.179,000,REQ:107~1,2,3,4;5,6,7,8
+
+00:09:56.110,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:09:05
+00:09:56.322,000,IOP:
+00:09:59.861,000,REQ:107~1,2,3,4;5,6,7,8
+
+00:10:55.916,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:10:55
+00:10:56.108,000,IOP:
+00:10:58.990,000,REQ:107~1,2,3,4;5,6,7,8
+
+00:12:24.167,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:12:23
+00:12:24.356,000,IOP:
+00:12:26.699,000,REQ:107~1,2,3,4;5,6,7,8
+
+00:13:55.924,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:13:55
+00:13:56.109,000,IOP:
+00:14:01.908,000,REQ:107~1,2,3,4;5,6,7,8
+
+00:15:17.192,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:15:16
+
+00:15:37.665,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:15:37
+00:15:49.728,000,IOP:
+
+00:20:18.443,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:20:17
+
+00:21:03.127,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:21:02
+00:21:03.286,000,IOP:
+
+00:25:39.418,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:25:38
+00:25:39.475,000,IOP:
+
+00:25:57.132,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:25:56
+
+00:28:38.206,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:28:37
+00:28:38.215,000,IOP:
+00:28:44.951,000,REQ:107~1,2,3,4;5,6,7,8
+00:28:44.964,000,ERR:System.InvalidOperationException: Error al establecer el estado de apartamento COM especificado.
+   en System.Threading.Thread.SetApartmentState(ApartmentState state)
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 65
+00:28:44.966,000,RES:NOK~Error al establecer el estado de apartamento COM especificado.
+
+00:28:59.423,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 00:28:58
+00:28:59.433,000,IOP:
+00:29:03.245,000,REQ:107~1,2,3,4;5,6,7,8
+00:29:04.109,000,RES:OK~Archivo creado
+
+01:07:40.207,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 01:07:39
+01:07:40.220,000,IOP:
+01:07:46.478,000,REQ:107~1,2,3,4;5,6,7,8
+01:07:47.225,000,ERR:System.IO.IOException: El proceso no puede obtener acceso al archivo 'E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\bin\Debug\EstadoPagoPeajes.pdf' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   en System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   en PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocumentFromHtml(String templatePath, String filename, String data) en E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:línea 57
+   en PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocument(DocumentType documentType, String data) en E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:línea 34
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 215
+01:07:47.227,000,RES:NOK~El proceso no puede obtener acceso al archivo 'E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\bin\Debug\EstadoPagoPeajes.pdf' porque está siendo utilizado en otro proceso.
+01:07:54.815,000,REQ:107~1,2,3,4;5,6,7,8
+01:07:55.181,000,RES:OK~Archivo creado
+
+01:08:13.707,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 01:07:39
+01:08:18.505,000,IOP:
+
+01:10:42.381,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 01:10:41
+01:10:42.398,000,IOP:
+01:10:47.314,000,REQ:104~1
+
+01:11:16.890,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 01:11:16
+01:11:16.904,000,IOP:
+01:11:23.535,000,REQ:104~1
+01:11:33.548,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\Proyectos\Kiosco\Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 177
+01:11:33.553,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+
+01:12:17.834,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 01:12:17
+01:12:17.855,000,IOP:
+01:12:30.957,000,REQ:107~Campo1,Campo2,Campo3,Campo4;Campo1,Campo2,Campo3,Campo4;Campo1,Campo2,Campo3,Campo4
+01:12:31.692,000,RES:OK~Archivo creado
+
+01:13:02.962,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 10-06-2017 01:12:17
+01:13:03.007,000,IOP:
+01:13:05.860,000,REQ:107~Campo1,Campo2,Campo3,Campo4;Campo1,Campo2,Campo3,Campo4;Campo1,Campo2,Campo3,Campo4
+01:13:06.600,000,RES:OK~Archivo creado

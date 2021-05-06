@@ -1,0 +1,344 @@
+09:44:22.788,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+09:44:23.112,000,RES:OK~Archivo creado
+11:45:20.781,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:45:20.903,000,RES:OK~Voucher impreso
+11:50:32.405,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:50:32.533,000,RES:OK~Voucher impreso
+11:51:51.154,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:51:51.295,000,RES:OK~Voucher impreso
+11:53:00.672,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:53:00.802,000,RES:OK~Voucher impreso
+11:53:47.877,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:53:48.006,000,RES:OK~Voucher impreso
+11:54:01.340,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:54:01.459,000,RES:OK~Voucher impreso
+11:54:16.810,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+11:54:16.947,000,RES:OK~Voucher impreso
+12:02:26.455,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+12:02:26.582,000,RES:OK~Voucher impreso
+12:04:29.099,000,REQ:102~NII ExD NP-K3053~1100609834,34028045,04/01/2016,1.646,4002139787,RODRIGO ECHEVERRIA
+12:04:29.217,000,RES:OK~Voucher impreso
+12:08:51.755,000,REQ:104~1~30
+12:09:01.768,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:09:01.773,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:09:09.954,000,REQ:104~1~30
+12:09:19.962,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:09:19.962,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:09:39.522,000,REQ:104~1~30
+12:09:49.531,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:09:49.531,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:10:48.206,000,REQ:104~1~30
+12:10:58.215,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:10:58.215,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:11:05.212,000,REQ:104~1~30
+12:11:15.214,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:11:15.214,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:13:19.055,000,REQ:104~1~30
+12:13:29.061,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:13:29.061,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:13:32.520,000,REQ:104~1~30
+12:13:33.126,000,RES:OK~17122588-4
+12:13:33.206,000,REQ:105~1~30
+12:13:33.696,000,RES:OK~Indice Derecho
+12:13:33.782,000,REQ:106~1~30
+12:13:44.211,000,ERR:TPAuto.HuellaCI.Exceptions.FingerprintTimeoutException: El tiempo para esperar la lectura de la huella ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 290
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 214
+12:13:44.216,000,RES:NOK~El tiempo para esperar la lectura de la huella ha expirado.
+12:20:54.349,000,REQ:104~1~30
+12:21:02.360,000,RES:OK~17122588-4
+12:21:02.445,000,REQ:105~1~30
+12:21:02.940,000,RES:OK~Indice Derecho
+12:21:03.029,000,REQ:106~1~30
+12:21:13.417,000,ERR:TPAuto.HuellaCI.Exceptions.FingerprintTimeoutException: El tiempo para esperar la lectura de la huella ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 290
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 214
+12:21:13.422,000,RES:NOK~El tiempo para esperar la lectura de la huella ha expirado.
+12:22:18.620,000,REQ:104~1~30
+12:22:19.047,000,RES:OK~17122588-4
+12:22:19.137,000,REQ:105~1~30
+12:22:19.192,000,RES:OK~Indice Derecho
+12:22:19.291,000,REQ:106~1~30
+12:22:22.442,000,RES:OK~True
+12:26:33.225,000,REQ:104~1~30
+12:26:41.139,000,RES:OK~17122588-4
+12:26:41.214,000,REQ:105~1~30
+12:26:41.704,000,RES:OK~Indice Derecho
+12:26:41.793,000,REQ:106~1~30
+12:26:45.783,000,RES:OK~True
+12:28:21.816,000,REQ:104~1~30
+12:28:24.929,000,RES:OK~17122588-4
+12:28:25.009,000,REQ:105~1~30
+12:28:25.499,000,RES:OK~Indice Derecho
+12:28:25.578,000,REQ:106~1~30
+12:28:27.847,000,RES:OK~True
+12:28:55.485,000,REQ:104~1~30
+12:29:01.801,000,RES:OK~17122588-4
+12:29:01.871,000,REQ:105~1~30
+12:29:02.361,000,RES:OK~Indice Derecho
+12:29:02.466,000,REQ:106~1~30
+12:29:05.177,000,RES:OK~True
+12:30:44.010,000,REQ:104~1~30
+12:30:46.318,000,RES:OK~17122588-4
+12:30:46.393,000,REQ:105~1~30
+12:30:46.693,000,RES:OK~Indice Derecho
+12:30:46.770,000,REQ:106~1~30
+12:30:48.830,000,RES:OK~True
+12:32:52.764,000,REQ:104~1~30
+12:32:56.672,000,RES:OK~17122588-4
+12:32:56.757,000,REQ:105~1~30
+12:32:57.242,000,RES:OK~Indice Derecho
+12:32:57.333,000,REQ:106~1~30
+12:33:00.393,000,RES:OK~True
+12:51:16.138,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+12:51:16.631,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+12:51:16.632,000,RES:OK~32630764
+12:51:31.640,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+12:51:31.653,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+12:51:31.654,000,RES:OK~32630764
+13:02:15.815,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:02:15.847,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:02:15.848,000,RES:OK~32630764
+13:06:28.710,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:06:28.742,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:06:28.744,000,RES:OK~32630764
+13:06:44.531,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:06:44.544,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:06:44.546,000,RES:OK~32630764
+13:09:16.153,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:09:16.191,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:09:16.192,000,RES:OK~32630764
+13:09:31.826,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:09:31.851,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:09:31.852,000,RES:OK~32630764
+13:11:12.888,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:11:12.925,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:11:12.931,000,RES:OK~32630764
+13:11:19.173,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:11:19.289,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:11:19.296,000,RES:OK~32630764
+13:12:17.440,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:12:17.484,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:12:17.491,000,RES:OK~32630764
+13:12:26.375,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:12:26.391,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:12:26.392,000,RES:OK~32630764
+13:16:36.341,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:16:36.369,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:16:36.370,000,RES:OK~32630764
+13:16:44.824,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:16:44.839,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:16:44.840,000,RES:OK~32630764
+13:19:44.929,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:19:44.948,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:19:44.950,000,RES:OK~32630764
+13:19:57.511,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:19:57.523,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:19:57.525,000,RES:OK~32630764
+13:20:18.622,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:20:18.633,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:20:18.636,000,RES:OK~32630764
+13:21:15.708,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:21:15.736,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:21:15.737,000,RES:OK~32630764
+13:21:25.607,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32630764&e=96992030&r=1,32630764
+13:21:25.622,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:21:25.623,000,RES:OK~32630764
+13:22:18.964,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33708405&e=96992030&r=1,33708405
+13:22:19.191,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:22:19.192,000,RES:OK~33708405
+13:22:47.536,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33054801&e=96992030&r=1,33054801;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32453126&e=96992030&r=1,32453126
+13:22:48.436,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:22:48.639,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:22:48.640,000,RES:OK~33054801,32453126
+13:23:17.178,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045
+13:23:17.409,000,RES:OK~
+13:23:17.556,000,REQ:107~2~CVSP17,09/12/2015,19:27:45,17,AVN,34028045;CVSP17,09/12/2015,19:23:54,2,AVN,34028045;CVSP17,02/01/2015,16:24:00,17,AVN,34028045;CVSP17,02/01/2015,16:21:56,2,AVN,34028045;CVSP17,01/01/2015,21:17:39,11,AVN,34028045
+13:23:18.117,000,RES:OK~Archivo creado
+13:23:30.198,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33054801&e=96992030&r=1,33054801
+13:23:30.211,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:23:30.212,000,RES:OK~33054801
+13:23:42.354,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32453126&e=96992030&r=1,32453126
+13:23:42.372,000,ERR:System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at System.Net.WebClient.DownloadFile(String address, String fileName)
+   at PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:line 107
+13:23:42.376,000,RES:OK~32453126
+13:24:15.917,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045
+13:24:16.137,000,RES:OK~
+13:24:16.259,000,REQ:107~2~CVSP17,09/12/2015,19:27:45,17,AVN,34028045;CVSP17,09/12/2015,19:23:54,2,AVN,34028045;CVSP17,02/01/2015,16:24:00,17,AVN,34028045;CVSP17,02/01/2015,16:21:56,2,AVN,34028045;CVSP17,01/01/2015,21:17:39,11,AVN,34028045
+13:24:16.600,000,RES:OK~Archivo creado
+13:25:28.967,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045
+13:25:29.204,000,RES:OK~
+13:36:36.809,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045
+13:36:37.052,000,RES:OK~
+13:43:45.095,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=34028045&e=96992030&r=1,34028045
+13:43:45.310,000,RES:OK~
+
+14:02:46.138,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 13-07-2017 14:58:14
+14:02:46.193,000,IOP:
+14:12:35.849,000,REQ:104~1~30
+14:12:40.460,000,RES:OK~17122588-4
+14:12:40.545,000,REQ:105~1~30
+14:12:41.045,000,RES:OK~Indice Derecho
+14:12:41.178,000,REQ:106~1~30
+14:12:44.440,000,RES:OK~True
+14:16:53.773,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:16:54.449,000,RES:OK~
+14:17:46.706,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:17:46.974,000,RES:OK~
+14:17:57.610,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+14:17:57.853,000,RES:OK~
+14:25:33.882,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+14:25:34.951,000,RES:OK~Archivo creado
+14:31:33.556,000,REQ:107~3~CPHH16,06/11/2014,26/11/2014,Fuera de Plazo,AVN;CPHH16,21/11/2014,11/12/2014,Fuera de Plazo,AVN;CPHH16,01/12/2014,21/12/2014,Fuera de Plazo,AVN;CPHH16,04/12/2014,24/12/2014,Fuera de Plazo,AVN;CPHH16,05/12/2014,25/12/2014,Fuera de Plazo,AVN;CPHH16,06/12/2014,26/12/2014,Fuera de Plazo,AVN;CPHH16,08/12/2014,28/12/2014,Fuera de Plazo,AVN;CPHH16,09/12/2014,29/12/2014,Fuera de Plazo,AVN;CPHH16,10/12/2014,30/12/2014,Fuera de Plazo,AVN;CPHH16,11/12/2014,31/12/2014,Fuera de Plazo,AVN;CPHH16,12/12/2014,01/01/2015,Fuera de Plazo,AVN;CPHH16,13/12/2014,02/01/2015,Fuera de Plazo,AVN;CPHH16,14/12/2014,03/01/2015,Fuera de Plazo,AVN;CPHH16,15/12/2014,04/01/2015,Fuera de Plazo,AVN;CPHH16,16/12/2014,05/01/2015,Fuera de Plazo,AVN;CPHH16,18/12/2014,07/01/2015,Fuera de Plazo,AVN;CPHH16,19/12/2014,08/01/2015,Fuera de Plazo,AVN;CPHH16,20/12/2014,09/01/2015,Fuera de Plazo,AVN;CPHH16,21/12/2014,10/01/2015,Fuera de Plazo,AVN;CPHH16,22/12/2014,11/01/2015,Fuera de Plazo,AVN;CPHH16,23/12/2014,12/01/2015,Fuera de Plazo,AVN;CPHH16,24/12/2014,13/01/2015,Fuera de Plazo,AVN;CPHH16,27/12/2014,16/01/2015,Fuera de Plazo,AVN;CPHH16,28/12/2014,17/01/2015,Fuera de Plazo,AVN;CPHH16,30/12/2014,19/01/2015,Fuera de Plazo,AVN;CPHH16,31/12/2014,20/01/2015,Fuera de Plazo,AVN;CPHH16,01/01/2015,21/01/2015,Fuera de Plazo,AVN;CPHH16,02/01/2015,22/01/2015,Fuera de Plazo,AVN;CPHH16,03/01/2015,23/01/2015,Fuera de Plazo,AVN;CPHH16,05/01/2015,25/01/2015,Fuera de Plazo,AVN;CPHH16,06/01/2015,26/01/2015,Fuera de Plazo,AVN-TSC;CPHH16,07/01/2015,27/01/2015,Fuera de Plazo,AVN;CPHH16,08/01/2015,28/01/2015,Fuera de Plazo,AVN;CPHH16,09/01/2015,29/01/2015,Fuera de Plazo,AVN;CPHH16,17/01/2015,06/02/2015,Fuera de Plazo,AVN;CPHH16,18/01/2015,07/02/2015,Fuera de Plazo,AVN;CPHH16,19/01/2015,08/02/2015,Fuera de Plazo,AVN;CPHH16,20/01/2015,09/02/2015,Fuera de Plazo,AVN;CPHH16,21/01/2015,10/02/2015,Fuera de Plazo,AVN
+14:31:33.991,000,RES:OK~Archivo creado
+14:31:55.054,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+14:31:55.293,000,RES:OK~Archivo creado
+14:32:22.800,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+14:32:23.061,000,RES:OK~Archivo creado
+14:34:59.959,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+14:35:00.557,000,RES:OK~Archivo creado
+14:50:26.595,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+14:50:27.165,000,RES:OK~Archivo creado
+14:56:11.010,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+14:56:11.570,000,RES:OK~Archivo creado
+14:57:40.417,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+14:57:41.014,000,RES:OK~Archivo creado
+15:14:02.799,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+15:14:03.286,000,RES:OK~Archivo creado
+15:15:41.268,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+15:15:41.961,000,RES:OK~Archivo creado
+15:17:08.697,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+15:17:08.965,000,RES:OK~Archivo creado
+15:17:32.729,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+15:17:33.006,000,RES:OK~Archivo creado
+15:18:35.472,000,REQ:107~3~CPHH16,06/11/2014,26/11/2014,Fuera de Plazo,AVN;CPHH16,21/11/2014,11/12/2014,Fuera de Plazo,AVN;CPHH16,01/12/2014,21/12/2014,Fuera de Plazo,AVN;CPHH16,04/12/2014,24/12/2014,Fuera de Plazo,AVN;CPHH16,05/12/2014,25/12/2014,Fuera de Plazo,AVN;CPHH16,06/12/2014,26/12/2014,Fuera de Plazo,AVN;CPHH16,08/12/2014,28/12/2014,Fuera de Plazo,AVN;CPHH16,09/12/2014,29/12/2014,Fuera de Plazo,AVN;CPHH16,10/12/2014,30/12/2014,Fuera de Plazo,AVN;CPHH16,11/12/2014,31/12/2014,Fuera de Plazo,AVN;CPHH16,12/12/2014,01/01/2015,Fuera de Plazo,AVN;CPHH16,13/12/2014,02/01/2015,Fuera de Plazo,AVN;CPHH16,14/12/2014,03/01/2015,Fuera de Plazo,AVN;CPHH16,15/12/2014,04/01/2015,Fuera de Plazo,AVN;CPHH16,16/12/2014,05/01/2015,Fuera de Plazo,AVN;CPHH16,18/12/2014,07/01/2015,Fuera de Plazo,AVN;CPHH16,19/12/2014,08/01/2015,Fuera de Plazo,AVN;CPHH16,20/12/2014,09/01/2015,Fuera de Plazo,AVN;CPHH16,21/12/2014,10/01/2015,Fuera de Plazo,AVN;CPHH16,22/12/2014,11/01/2015,Fuera de Plazo,AVN;CPHH16,23/12/2014,12/01/2015,Fuera de Plazo,AVN;CPHH16,24/12/2014,13/01/2015,Fuera de Plazo,AVN;CPHH16,27/12/2014,16/01/2015,Fuera de Plazo,AVN;CPHH16,28/12/2014,17/01/2015,Fuera de Plazo,AVN;CPHH16,30/12/2014,19/01/2015,Fuera de Plazo,AVN;CPHH16,31/12/2014,20/01/2015,Fuera de Plazo,AVN;CPHH16,01/01/2015,21/01/2015,Fuera de Plazo,AVN;CPHH16,02/01/2015,22/01/2015,Fuera de Plazo,AVN;CPHH16,03/01/2015,23/01/2015,Fuera de Plazo,AVN;CPHH16,05/01/2015,25/01/2015,Fuera de Plazo,AVN;CPHH16,06/01/2015,26/01/2015,Fuera de Plazo,AVN-TSC;CPHH16,07/01/2015,27/01/2015,Fuera de Plazo,AVN;CPHH16,08/01/2015,28/01/2015,Fuera de Plazo,AVN;CPHH16,09/01/2015,29/01/2015,Fuera de Plazo,AVN;CPHH16,17/01/2015,06/02/2015,Fuera de Plazo,AVN;CPHH16,18/01/2015,07/02/2015,Fuera de Plazo,AVN;CPHH16,19/01/2015,08/02/2015,Fuera de Plazo,AVN;CPHH16,20/01/2015,09/02/2015,Fuera de Plazo,AVN;CPHH16,21/01/2015,10/02/2015,Fuera de Plazo,AVN
+15:18:35.754,000,RES:OK~Archivo creado
+15:18:48.157,000,REQ:107~3~CPHH16,06/11/2014,26/11/2014,Fuera de Plazo,AVN;CPHH16,21/11/2014,11/12/2014,Fuera de Plazo,AVN;CPHH16,01/12/2014,21/12/2014,Fuera de Plazo,AVN;CPHH16,04/12/2014,24/12/2014,Fuera de Plazo,AVN;CPHH16,05/12/2014,25/12/2014,Fuera de Plazo,AVN;CPHH16,06/12/2014,26/12/2014,Fuera de Plazo,AVN;CPHH16,08/12/2014,28/12/2014,Fuera de Plazo,AVN;CPHH16,09/12/2014,29/12/2014,Fuera de Plazo,AVN;CPHH16,10/12/2014,30/12/2014,Fuera de Plazo,AVN;CPHH16,11/12/2014,31/12/2014,Fuera de Plazo,AVN;CPHH16,12/12/2014,01/01/2015,Fuera de Plazo,AVN;CPHH16,13/12/2014,02/01/2015,Fuera de Plazo,AVN;CPHH16,14/12/2014,03/01/2015,Fuera de Plazo,AVN;CPHH16,15/12/2014,04/01/2015,Fuera de Plazo,AVN;CPHH16,16/12/2014,05/01/2015,Fuera de Plazo,AVN;CPHH16,18/12/2014,07/01/2015,Fuera de Plazo,AVN;CPHH16,19/12/2014,08/01/2015,Fuera de Plazo,AVN;CPHH16,20/12/2014,09/01/2015,Fuera de Plazo,AVN;CPHH16,21/12/2014,10/01/2015,Fuera de Plazo,AVN;CPHH16,22/12/2014,11/01/2015,Fuera de Plazo,AVN;CPHH16,23/12/2014,12/01/2015,Fuera de Plazo,AVN;CPHH16,24/12/2014,13/01/2015,Fuera de Plazo,AVN;CPHH16,27/12/2014,16/01/2015,Fuera de Plazo,AVN;CPHH16,28/12/2014,17/01/2015,Fuera de Plazo,AVN;CPHH16,30/12/2014,19/01/2015,Fuera de Plazo,AVN;CPHH16,31/12/2014,20/01/2015,Fuera de Plazo,AVN;CPHH16,01/01/2015,21/01/2015,Fuera de Plazo,AVN;CPHH16,02/01/2015,22/01/2015,Fuera de Plazo,AVN;CPHH16,03/01/2015,23/01/2015,Fuera de Plazo,AVN;CPHH16,05/01/2015,25/01/2015,Fuera de Plazo,AVN;CPHH16,06/01/2015,26/01/2015,Fuera de Plazo,AVN-TSC;CPHH16,07/01/2015,27/01/2015,Fuera de Plazo,AVN;CPHH16,08/01/2015,28/01/2015,Fuera de Plazo,AVN;CPHH16,09/01/2015,29/01/2015,Fuera de Plazo,AVN;CPHH16,17/01/2015,06/02/2015,Fuera de Plazo,AVN;CPHH16,18/01/2015,07/02/2015,Fuera de Plazo,AVN;CPHH16,19/01/2015,08/02/2015,Fuera de Plazo,AVN;CPHH16,20/01/2015,09/02/2015,Fuera de Plazo,AVN;CPHH16,21/01/2015,10/02/2015,Fuera de Plazo,AVN
+15:18:48.494,000,RES:OK~Archivo creado
+15:19:15.583,000,REQ:107~3~CPHH16,06/11/2014,26/11/2014,Fuera de Plazo,AVN;CPHH16,21/11/2014,11/12/2014,Fuera de Plazo,AVN;CPHH16,01/12/2014,21/12/2014,Fuera de Plazo,AVN;CPHH16,04/12/2014,24/12/2014,Fuera de Plazo,AVN;CPHH16,05/12/2014,25/12/2014,Fuera de Plazo,AVN;CPHH16,06/12/2014,26/12/2014,Fuera de Plazo,AVN;CPHH16,08/12/2014,28/12/2014,Fuera de Plazo,AVN;CPHH16,09/12/2014,29/12/2014,Fuera de Plazo,AVN;CPHH16,10/12/2014,30/12/2014,Fuera de Plazo,AVN;CPHH16,11/12/2014,31/12/2014,Fuera de Plazo,AVN;CPHH16,12/12/2014,01/01/2015,Fuera de Plazo,AVN;CPHH16,13/12/2014,02/01/2015,Fuera de Plazo,AVN;CPHH16,14/12/2014,03/01/2015,Fuera de Plazo,AVN;CPHH16,15/12/2014,04/01/2015,Fuera de Plazo,AVN;CPHH16,16/12/2014,05/01/2015,Fuera de Plazo,AVN;CPHH16,18/12/2014,07/01/2015,Fuera de Plazo,AVN;CPHH16,19/12/2014,08/01/2015,Fuera de Plazo,AVN;CPHH16,20/12/2014,09/01/2015,Fuera de Plazo,AVN;CPHH16,21/12/2014,10/01/2015,Fuera de Plazo,AVN;CPHH16,22/12/2014,11/01/2015,Fuera de Plazo,AVN;CPHH16,23/12/2014,12/01/2015,Fuera de Plazo,AVN;CPHH16,24/12/2014,13/01/2015,Fuera de Plazo,AVN;CPHH16,27/12/2014,16/01/2015,Fuera de Plazo,AVN;CPHH16,28/12/2014,17/01/2015,Fuera de Plazo,AVN;CPHH16,30/12/2014,19/01/2015,Fuera de Plazo,AVN;CPHH16,31/12/2014,20/01/2015,Fuera de Plazo,AVN;CPHH16,01/01/2015,21/01/2015,Fuera de Plazo,AVN;CPHH16,02/01/2015,22/01/2015,Fuera de Plazo,AVN;CPHH16,03/01/2015,23/01/2015,Fuera de Plazo,AVN;CPHH16,05/01/2015,25/01/2015,Fuera de Plazo,AVN;CPHH16,06/01/2015,26/01/2015,Fuera de Plazo,AVN-TSC;CPHH16,07/01/2015,27/01/2015,Fuera de Plazo,AVN;CPHH16,08/01/2015,28/01/2015,Fuera de Plazo,AVN;CPHH16,09/01/2015,29/01/2015,Fuera de Plazo,AVN;CPHH16,17/01/2015,06/02/2015,Fuera de Plazo,AVN;CPHH16,18/01/2015,07/02/2015,Fuera de Plazo,AVN;CPHH16,19/01/2015,08/02/2015,Fuera de Plazo,AVN;CPHH16,20/01/2015,09/02/2015,Fuera de Plazo,AVN;CPHH16,21/01/2015,10/02/2015,Fuera de Plazo,AVN
+15:19:16.050,000,RES:OK~Archivo creado
+15:19:35.191,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+15:19:35.458,000,RES:OK~Archivo creado
+15:37:16.799,000,REQ:104~1~30
+15:37:19.087,000,RES:OK~17122588-4
+15:37:19.181,000,REQ:105~1~30
+15:37:19.665,000,RES:OK~Indice Derecho
+15:37:19.765,000,REQ:106~1~30
+15:37:25.056,000,RES:OK~True
+15:39:13.503,000,REQ:104~1~30
+15:39:15.682,000,RES:OK~17122588-4
+15:39:15.775,000,REQ:105~1~30
+15:39:16.275,000,RES:OK~Indice Derecho
+15:39:16.375,000,REQ:106~1~30
+15:39:26.803,000,ERR:TPAuto.HuellaCI.Exceptions.FingerprintTimeoutException: El tiempo para esperar la lectura de la huella ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 290
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 214
+15:39:26.803,000,RES:NOK~El tiempo para esperar la lectura de la huella ha expirado.
+15:39:35.341,000,REQ:104~1~30
+15:39:35.677,000,RES:OK~17122588-4
+15:39:35.755,000,REQ:105~1~30
+15:39:35.823,000,RES:OK~Indice Derecho
+15:39:35.917,000,REQ:106~1~30
+15:39:39.173,000,RES:OK~True
+15:46:03.003,000,REQ:107~1~PK1089,8464994,03/08/2008,02/01/2009;PK1089,8741556,09/09/2008,02/01/2009;PK1089,9427579,03/11/2008,04/03/2009
+15:46:03.355,000,RES:OK~Archivo creado
+17:07:20.737,000,REQ:104~1~30
+17:07:23.282,000,RES:OK~10446699-0
+17:07:23.391,000,REQ:105~1~30
+17:07:23.906,000,RES:OK~Indice Derecho
+17:07:24.021,000,REQ:106~1~30
+17:07:27.951,000,RES:OK~False
+17:07:37.392,000,REQ:104~1~30
+17:07:37.506,000,RES:OK~10446699-0
+17:07:37.594,000,REQ:105~1~30
+17:07:38.126,000,RES:OK~Indice Derecho
+17:07:38.204,000,REQ:106~1~30
+17:07:41.088,000,RES:OK~True
+17:08:15.863,000,REQ:101~pdf~http://172.20.3.80:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=44667199&e=96992030&r=1,44667199
+17:08:16.411,000,RES:OK~
+17:08:16.596,000,REQ:107~2~CVSP17,18/07/2017,19:18:32,17,AVN,44667199;CVSP17,18/07/2017,19:10:35,2,AVN,44667199;CVSP17,18/07/2017,09:26:43,3,AVN,44667199;CVSP17,18/07/2017,09:25:19,16,AVN,44667199;CVSP17,18/07/2017,09:22:28,1,AVN,44667199;CVSP17,17/07/2017,22:39:05,17,AVN,44667199;CVSP17,17/07/2017,22:37:05,2,AVN,44667199;CVSP17,17/07/2017,22:25:40,3,AVN,44667199;CVSP17,17/07/2017,08:52:27,3,AVN,44667199;CVSP17,17/07/2017,08:51:13,16,AVN,44667199;CVSP17,17/07/2017,08:48:28,1,AVN,44667199;CVSP17,16/07/2017,20:49:16,17,AVN,44667199;CVSP17,16/07/2017,20:47:09,2,AVN,44667199;CVSP17,14/07/2017,09:34:33,3,AVN,44667199;CVSP17,14/07/2017,09:33:21,16,AVN,44667199;CVSP17,14/07/2017,09:30:44,1,AVN,44667199;CVSP17,13/07/2017,19:07:34,17,AVN,44667199;CVSP17,13/07/2017,19:01:57,2,AVN,44667199;CVSP17,13/07/2017,09:50:56,3,AVN,44667199;CVSP17,13/07/2017,09:49:48,16,AVN,44667199;CVSP17,13/07/2017,09:47:05,1,AVN,44667199;CVSP17,12/07/2017,22:43:41,17,AVN,44667199;CVSP17,12/07/2017,22:41:35,2,AVN,44667199;CVSP17,12/07/2017,09:38:39,3,AVN,44667199;CVSP17,12/07/2017,09:36:57,16,AVN,44667199;CVSP17,12/07/2017,09:34:01,1,AVN,44667199;CVSP17,11/07/2017,20:00:02,17,AVN,44667199;CVSP17,11/07/2017,19:57:43,2,AVN,44667199;CVSP17,11/07/2017,09:24:35,3,AVN,44667199;CVSP17,11/07/2017,09:23:31,16,AVN,44667199;CVSP17,11/07/2017,09:21:04,1,AVN,44667199;CVSP17,10/07/2017,22:41:13,17,AVN,44667199;CVSP17,10/07/2017,22:39:18,2,AVN,44667199;CVSP17,10/07/2017,22:27:48,3,AVN,44667199;CVSP17,10/07/2017,09:38:05,3,AVN,44667199;CVSP17,10/07/2017,09:36:23,16,AVN,44667199;CVSP17,10/07/2017,09:29:39,1,AVN,44667199;CVSP17,07/07/2017,22:54:52,17,AVN,44667199;CVSP17,07/07/2017,22:52:41,2,AVN,44667199;CVSP17,07/07/2017,22:45:44,3,AVN,44667199;CVSP17,07/07/2017,09:40:11,3,AVN,44667199;CVSP17,07/07/2017,09:38:49,16,AVN,44667199;CVSP17,07/07/2017,09:36:02,1,AVN,44667199;CVSP17,06/07/2017,19:10:34,17,AVN,44667199;CVSP17,06/07/2017,19:04:49,2,AVN,44667199;CVSP17,06/07/2017,18:53:55,4,AVN,44667199;CVSP17,06/07/2017,10:16:56,3,AVN,44667199;CVSP17,06/07/2017,10:15:23,16,AVN,44667199;CVSP17,06/07/2017,10:12:33,1,AVN,44667199;CVSP17,05/07/2017,22:49:22,17,AVN,44667199;CVSP17,05/07/2017,22:47:31,2,AVN,44667199;CVSP17,05/07/2017,08:58:23,3,AVN,44667199;CVSP17,05/07/2017,08:56:27,16,AVN,44667199;CVSP17,05/07/2017,08:38:51,1,AVN,44667199;CVSP17,04/07/2017,18:53:34,17,AVN,44667199;CVSP17,04/07/2017,18:51:13,2,AVN,44667199;CVSP17,04/07/2017,18:38:40,4,AVN,44667199;CVSP17,04/07/2017,11:18:51,3,AVN,44667199;CVSP17,03/07/2017,22:38:05,17,AVN,44667199;CVSP17,03/07/2017,22:36:12,2,AVN,44667199;CVSP17,03/07/2017,22:29:46,3,AVN,44667199;CVSP17,03/07/2017,08:45:46,3,AVN,44667199;CVSP17,03/07/2017,08:44:10,16,AVN,44667199;CVSP17,03/07/2017,08:34:38,1,AVN,44667199;CVSP17,30/06/2017,22:48:58,17,AVN,44667199;CVSP17,30/06/2017,22:46:56,2,AVN,44667199;CVSP17,30/06/2017,14:57:54,6,AVN,44667199;CVSP17,30/06/2017,14:53:18,8,AVN,44667199;CVSP17,30/06/2017,14:51:58,11,AVN,44667199;CVSP17,30/06/2017,10:31:32,10,AVN,44667199;CVSP17,30/06/2017,10:30:57,9,AVN,44667199;CVSP17,30/06/2017,10:27:18,7,AVN,44667199;CVSP17,30/06/2017,10:25:30,5,AVN,44667199;CVSP17,30/06/2017,09:42:12,3,AVN,44667199;CVSP17,30/06/2017,09:38:47,16,AVN,44667199;CVSP17,30/06/2017,09:25:10,1,AVN,44667199;CVSP17,29/06/2017,19:26:37,17,AVN,44667199;CVSP17,29/06/2017,19:23:53,2,AVN,44667199;CVSP17,29/06/2017,19:13:28,4,AVN,44667199;CVSP17,29/06/2017,09:41:43,3,AVN,44667199;CVSP17,29/06/2017,09:39:51,16,AVN,44667199;CVSP17,29/06/2017,09:32:46,1,AVN,44667199;CVSP17,29/06/2017,00:20:12,17,AVN,44667199;CVSP17,29/06/2017,00:18:10,2,AVN,44667199;CVSP17,28/06/2017,08:56:41,3,AVN,44667199;CVSP17,28/06/2017,08:55:03,16,AVN,44667199;CVSP17,28/06/2017,08:44:47,1,AVN,44667199;CVSP17,27/06/2017,19:15:03,17,AVN,44667199;CVSP17,27/06/2017,19:10:40,2,AVN,44667199;CVSP17,27/06/2017,19:05:42,4,AVN,44667199;CVSP17,27/06/2017,09:47:22,3,AVN,44667199;CVSP17,27/06/2017,09:45:31,16,AVN,44667199;CVSP17,27/06/2017,09:38:40,1,AVN,44667199;CVSP17,23/06/2017,14:50:09,17,AVN,44667199;CVSP17,23/06/2017,14:48:04,2,AVN,44667199;CVSP17,23/06/2017,14:45:54,4,AVN,44667199;CVSP17,23/06/2017,09:17:26,3,AVN,44667199;CVSP17,23/06/2017,09:16:20,16,AVN,44667199;CVSP17,23/06/2017,09:13:34,1,AVN,44667199;CVSP17,22/06/2017,19:15:21,17,AVN,44667199;CVSP17,22/06/2017,19:09:53,2,AVN,44667199;CVSP17,22/06/2017,09:26:33,3,AVN,44667199;CVSP17,22/06/2017,09:24:58,16,AVN,44667199;CVSP17,22/06/2017,09:21:47,1,AVN,44667199;CVSP17,21/06/2017,20:05:30,17,AVN,44667199;CVSP17,21/06/2017,20:03:04,2,AVN,44667199;CVSP17,21/06/2017,08:50:02,3,AVN,44667199;CVSP17,21/06/2017,08:47:59,16,AVN,44667199;CVSP17,21/06/2017,08:38:20,1,AVN,44667199;CVSP17,20/06/2017,19:13:16,17,AVN,44667199;CVSP17,20/06/2017,19:07:26,2,AVN,44667199;CVSP17,20/06/2017,09:14:26,3,AVN,44667199;CVSP17,20/06/2017,09:13:05,16,AVN,44667199;CVSP17,20/06/2017,09:10:18,1,AVN,44667199;CVSP17,19/06/2017,18:51:28,17,AVN,44667199;CVSP17,19/06/2017,18:45:58,2,AVN,44667199;CVSP17,19/06/2017,09:50:54,3,AVN,44667199;CVSP17,19/06/2017,09:49:42,16,AVN,44667199
+17:08:17.082,000,RES:OK~Archivo creado
+17:10:11.052,000,REQ:102~NII ExD NP-K3053~1100609834,44667199,09/08/2017,40.935,11200516819,RODRIGO ECHEVERRIA
+17:10:11.196,000,RES:OK~Voucher impreso
+18:14:14.325,000,REQ:102~NII ExD NP-K3053~1000356204,9842201,09/08/2017,2.942,9701065968,ALEX MAXIMO KOHNENICAMPF
+18:14:14.445,000,RES:OK~Voucher impreso

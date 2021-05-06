@@ -1,0 +1,40 @@
+09:12:26.603,000,REQ:104~1~30
+09:12:36.617,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+09:12:36.617,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+09:12:40.074,000,REQ:104~1~30
+09:12:50.144,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+09:12:50.144,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+09:15:52.811,000,REQ:104~1~30
+09:16:02.888,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+09:16:02.888,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:16:55.638,000,REQ:104~1~30
+12:17:05.706,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:17:05.706,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+12:17:15.171,000,REQ:104~1~30
+12:17:25.246,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+12:17:25.246,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+
+13:30:03.465,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 13-07-2017 14:58:14
+13:30:03.500,000,IOP:
+13:31:59.797,000,REQ:104~1~30
+13:32:03.314,000,RES:OK~13.567.078-2
+13:32:03.422,000,REQ:105~1~30
+13:32:03.426,000,RES:OK~Pulgar Derecho
+13:32:03.509,000,REQ:106~1~30
+13:32:03.516,000,ERR:System.Runtime.InteropServices.InvalidComObjectException: COM object that has been separated from its underlying RCW cannot be used.
+   at System.StubHelpers.StubHelpers.GetCOMIPFromRCW(Object objSrc, IntPtr pCPCMD, IntPtr& ppTarget, Boolean& pfNeedsRelease)
+   at PTLOCXCi._PTLOcx.set_Tiempo(Int16 )
+   at AxPTLOCXCi.AxPTLOcx.set_Tiempo(Int16 value)
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 214
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 214
+13:32:03.517,000,RES:NOK~COM object that has been separated from its underlying RCW cannot be used.

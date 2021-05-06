@@ -1,0 +1,93 @@
+
+10:56:39.857,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 05-07-2017 10:19:43
+10:56:39.918,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+10:56:39.921,000,IOP:
+10:57:03.505,000,REQ:CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+10:57:03.514,000,ERR:System.InvalidCastException: El comando no es numérico
+   en PipeComponent.Model.Messages.MessageService.Parse(String s) en E:\AVN\PipeComponent\PipeComponent\Model\Messages\MessageService.cs:línea 53
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 79
+10:57:03.514,000,RES:NOK~El comando no es numérico
+10:57:18.662,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+10:57:19.719,000,RES:OK~Archivo creado
+
+10:58:11.062,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 05-07-2017 10:19:43
+10:58:11.118,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+10:58:11.121,000,IOP:
+10:58:22.176,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+10:58:22.849,000,RES:OK~Archivo creado
+
+17:11:58.386,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 05-07-2017 10:19:43
+17:11:58.463,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+17:11:58.467,000,IOP:
+17:12:28.589,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+
+17:16:20.068,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 05-07-2017 10:19:43
+17:16:20.147,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\AVN\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\AVN\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+17:16:20.151,000,IOP:
+17:16:29.849,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+17:16:30.771,000,RES:OK~Archivo creado
+
+17:36:53.772,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 07-07-2017 17:36:53
+17:36:53.907,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+17:36:53.915,000,IOP:
+17:36:53.944,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+17:36:54.931,000,RES:OK~Archivo creado
+17:38:22.243,000,REQ:107~3~CPHH16,06-11-2014,01-12-2014,AVN;CPHH16,21-11-2014,16-12-2014,AVN;CPHH16,01-12-2014,26-12-2014,AVN;CPHH16,04-12-2014,29-12-2014,AVN;CPHH16,05-12-2014,30-12-2014,AVN;CPHH16,06-12-2014,31-12-2014,AVN;CPHH16,08-12-2014,02-01-2015,AVN;CPHH16,09-12-2014,03-01-2015,AVN;CPHH16,10-12-2014,04-01-2015,AVN;CPHH16,11-12-2014,05-01-2015,AVN;CPHH16,12-12-2014,06-01-2015,AVN;CPHH16,13-12-2014,07-01-2015,AVN;CPHH16,14-12-2014,08-01-2015,AVN;CPHH16,15-12-2014,09-01-2015,AVN;CPHH16,16-12-2014,10-01-2015,AVN;CPHH16,18-12-2014,12-01-2015,AVN;CPHH16,19-12-2014,13-01-2015,AVN;CPHH16,20-12-2014,14-01-2015,AVN;CPHH16,21-12-2014,15-01-2015,AVN;CPHH16,22-12-2014,16-01-2015,AVN;CPHH16,23-12-2014,17-01-2015,AVN;CPHH16,24-12-2014,18-01-2015,AVN;CPHH16,27-12-2014,21-01-2015,AVN;CPHH16,28-12-2014,22-01-2015,AVN;CPHH16,30-12-2014,24-01-2015,AVN;CPHH16,31-12-2014,25-01-2015,AVN;CPHH16,01-01-2015,26-01-2015,AVN;CPHH16,02-01-2015,27-01-2015,AVN;CPHH16,03-01-2015,28-01-2015,AVN;CPHH16,05-01-2015,30-01-2015,AVN;CPHH16,06-01-2015,31-01-2015,AVN-TSC;CPHH16,07-01-2015,01-02-2015,AVN;CPHH16,08-01-2015,02-02-2015,AVN;CPHH16,09-01-2015,03-02-2015,AVN;CPHH16,17-01-2015,11-02-2015,AVN;CPHH16,18-01-2015,12-02-2015,AVN;CPHH16,19-01-2015,13-02-2015,AVN;CPHH16,20-01-2015,14-02-2015,AVN;CPHH16,21-01-2015,15-02-2015,AVN
+17:38:22.639,000,RES:OK~Archivo creado
+17:45:01.873,000,REQ:107~1~UB9375,607465,14-01-2006,27-02-2008;UB9375,607465,16-01-2006,27-02-2008;UB9375,607465,18-01-2006,27-02-2008;UB9375,607465,19-01-2006,27-02-2008;UB9375,607465,21-01-2006,27-02-2008;UB9375,607465,24-01-2006,27-02-2008;UB9375,607465,25-01-2006,27-02-2008;UB9375,603792,22-03-2006,06-09-2008;UB9375,603792,23-03-2006,06-09-2008;UB9375,603792,30-03-2006,06-09-2008;UB9375,603792,31-03-2006,06-09-2008;UB9375,603792,01-04-2006,06-09-2008;UB9375,603792,03-04-2006,06-09-2008;UB9375,603792,04-04-2006,06-09-2008;UB9375,603792,06-04-2006,06-09-2008;UB9375,603792,07-04-2006,06-09-2008;UB9375,603792,10-04-2006,06-09-2008;UB9375,603792,11-04-2006,06-09-2008;UB9375,603792,13-04-2006,06-09-2008;UB9375,603792,14-04-2006,06-09-2008;UB9375,603792,15-04-2006,06-09-2008;UB9375,603792,17-04-2006,06-09-2008;UB9375,603792,18-04-2006,06-09-2008
+17:45:02.646,000,RES:OK~Archivo creado
+
+17:50:29.523,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 07-07-2017 17:36:53
+17:50:29.564,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+17:50:29.571,000,IOP:
+17:50:46.633,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+17:50:47.325,000,ERR:System.IO.IOException: El proceso no puede obtener acceso al archivo 'E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\bin\Debug\TransitosFacturados.pdf' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   en System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   en PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocumentFromHtml(String templatePath, String filename, String data, DocumentType documentType) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:línea 52
+   en PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocument(DocumentType documentType, String data, String templateName, String filename) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:línea 29
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 256
+17:50:47.328,000,RES:NOK~El proceso no puede obtener acceso al archivo 'E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\bin\Debug\TransitosFacturados.pdf' porque está siendo utilizado en otro proceso.
+17:51:00.285,000,REQ:107~2~CPHH16,01-03-2013,00:05:32,8,04;CPHH16,01-03-2013,00:04:21,11,04;CPHH16,04-03-2013,14:01:51,8,04;CPHH16,04-03-2013,14:00:52,11,04;CPHH16,04-03-2013,19:55:11,7,04;CPHH16,04-03-2013,19:57:55,9,04;CPHH16,04-03-2013,19:58:22,10,04
+17:51:00.586,000,ERR:System.IO.IOException: El proceso no puede obtener acceso al archivo 'E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\bin\Debug\TransitosFacturados.pdf' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   en System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   en PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocumentFromHtml(String templatePath, String filename, String data, DocumentType documentType) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:línea 52
+   en PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocument(DocumentType documentType, String data, String templateName, String filename) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:línea 29
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 256
+17:51:00.589,000,RES:NOK~El proceso no puede obtener acceso al archivo 'E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\bin\Debug\TransitosFacturados.pdf' porque está siendo utilizado en otro proceso.
+
+18:56:18.994,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 07-07-2017 18:56:17
+18:56:22.956,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+
+18:57:02.690,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 07-07-2017 18:56:17
+18:57:05.054,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+18:57:05.759,000,IOP:
+
+18:57:12.259,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 07-07-2017 18:56:17
+18:57:12.585,000,ERR:System.Exception: Error al inicializar la impresora: Printer open error
+   en PipeComponent.Peripherals.ThermalPrinter..ctor() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\ThermalPrinter.cs:línea 30
+   en PipeComponent.PipeServer..ctor(String pipeName) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 36
+18:57:16.518,000,IOP:

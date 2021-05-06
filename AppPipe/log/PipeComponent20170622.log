@@ -1,0 +1,92 @@
+
+16:54:30.649,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 21-06-2017 14:00:24
+16:54:30.823,000,IOP:
+16:54:43.425,000,REQ:104~1~30
+16:54:43.454,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+16:54:43.455,000,RES:NOK~El puerto 'COM11' no existe.
+16:54:50.989,000,REQ:104~1~30
+16:54:50.990,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+16:54:50.992,000,RES:NOK~El puerto 'COM11' no existe.
+16:54:51.440,000,REQ:104~1~30
+16:54:51.442,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+16:54:51.443,000,RES:NOK~El puerto 'COM11' no existe.
+16:54:51.836,000,REQ:104~1~30
+16:54:51.839,000,ERR:System.IO.IOException: El puerto 'COM11' no existe.
+   en System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   en System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   en System.IO.Ports.SerialPort.Open()
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 78
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+16:54:51.842,000,RES:NOK~El puerto 'COM11' no existe.
+
+16:56:08.420,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 22-06-2017 16:55:22
+16:56:08.463,000,IOP:
+16:56:17.321,000,REQ:104~1~30
+16:56:23.449,000,RES:OK~15958339-2
+16:56:23.572,000,REQ:105~1~30
+16:56:26.013,000,RES:OK~Indice Derecho
+16:56:26.104,000,REQ:106~1~30
+16:56:33.759,000,ERR:TPAuto.HuellaCI.Exceptions.MismatchValidationException: Tamaño especificado incorrecto
+   en TPAuto.HuellaCI.ValidadorCedulaNueva.HuellaEsValida(Byte[] huella) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorCedulaNueva.cs:línea 59
+   en TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 285
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 212
+16:56:33.766,000,RES:NOK~Tamaño especificado incorrecto
+16:57:05.565,000,REQ:104~1~30
+16:57:12.082,000,RES:OK~15958339-2
+16:57:12.164,000,REQ:105~1~30
+16:57:12.234,000,RES:OK~Indice Derecho
+16:57:12.318,000,REQ:106~1~30
+16:57:20.180,000,RES:OK~True
+16:57:30.718,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=33213189&e=96992030&r=1,33213189;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32872610&e=96992030&r=1,32872610;http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=41&f=32600039&e=96992030&r=1,32600039
+16:57:51.856,000,ERR:System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 172.20.3.96:8080
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 106
+16:58:12.888,000,ERR:System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 172.20.3.96:8080
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 106
+16:58:33.912,000,ERR:System.Net.WebException: No es posible conectar con el servidor remoto ---> System.Net.Sockets.SocketException: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 172.20.3.96:8080
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   en System.Net.WebClient.DownloadFile(String address, String fileName)
+   en PipeComponent.Peripherals.LaserPrinter.imprimir(String doc) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Peripherals\LaserPrinter.cs:línea 106
+16:58:33.922,000,RES:OK~33213189,32872610,32600039
+17:04:32.645,000,REQ:104~1~30
+17:05:02.712,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+17:05:02.720,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+17:05:09.628,000,REQ:104~1~30
+17:05:39.650,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+17:05:39.661,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+17:19:15.109,000,REQ:104~1~30
+17:19:45.205,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   en TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:línea 91
+   en PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) en E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:línea 190
+17:19:45.214,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.

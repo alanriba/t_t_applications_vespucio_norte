@@ -1,0 +1,4 @@
+14:22:39.275,Q,204;TP10PP001412041|REG|0|2017-06-21 14:22:39|2017-06-21 14:22:39|Boleta|Consulta Boletas|0|V|Consulta Boletas|17122588-4|0|0||||||0|0|||0||D64E@
+14:22:49.304,E,204;System.TimeoutException: Se excedió el tiempo de espera de la operación.
+   en System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   en AVN.Autoconsulta.core.PipeClient.MessageSentSuccessfully() en E:\00.- Proyectos\01.- Autopista Vespucio Norte\Servicio Rest\AVN.Autoconsulta.Api\AVN.Autoconsulta.core\AVC.Autoconsulta.core.Utils\PipeClient.cs:línea 98

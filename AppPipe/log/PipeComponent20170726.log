@@ -1,0 +1,116 @@
+13:14:13.966,000,REQ:104~1~30
+13:14:24.016,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+13:14:24.016,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+13:16:04.960,000,REQ:104~1~30
+13:16:15.012,000,ERR:TPAuto.HuellaCI.Exceptions.CardTimeoutException: El tiempo para esperar la lectura de la cédula ha expirado.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerRut(Int32 commPort, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 91
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+13:16:15.012,000,RES:NOK~El tiempo para esperar la lectura de la cédula ha expirado.
+13:16:38.550,000,REQ:104~1~30
+13:16:39.096,000,RES:OK~17122588-4
+13:16:39.190,000,REQ:105~1~30
+13:16:39.517,000,RES:OK~Indice Derecho
+13:16:39.628,000,REQ:106~1~30
+13:16:47.167,000,RES:OK~True
+
+15:29:11.133,000,INI:Servicio alex PipeComponent v1.0.0.1 Generado el 13-07-2017 14:58:14
+15:29:11.242,000,IOP:
+15:29:11.262,000,REQ:107~1~UB9375,607465,14/01/2006,27/02/2008;UB9375,607465,16/01/2006,27/02/2008;UB9375,607465,18/01/2006,27/02/2008;UB9375,607465,19/01/2006,27/02/2008;UB9375,607465,21/01/2006,27/02/2008;UB9375,607465,24/01/2006,27/02/2008;UB9375,607465,25/01/2006,27/02/2008;UB9375,603792,22/03/2006,06/09/2008;UB9375,603792,23/03/2006,06/09/2008;UB9375,603792,30/03/2006,06/09/2008;UB9375,603792,31/03/2006,06/09/2008;UB9375,603792,01/04/2006,06/09/2008;UB9375,603792,03/04/2006,06/09/2008;UB9375,603792,04/04/2006,06/09/2008;UB9375,603792,06/04/2006,06/09/2008;UB9375,603792,07/04/2006,06/09/2008;UB9375,603792,10/04/2006,06/09/2008;UB9375,603792,11/04/2006,06/09/2008;UB9375,603792,13/04/2006,06/09/2008;UB9375,603792,14/04/2006,06/09/2008;UB9375,603792,15/04/2006,06/09/2008;UB9375,603792,17/04/2006,06/09/2008;UB9375,603792,18/04/2006,06/09/2008
+15:29:11.264,000,REQ:107~3~CPHH16,06/11/2014,26/11/2014,Fuera de Plazo,AVN;CPHH16,21/11/2014,11/12/2014,Fuera de Plazo,AVN;CPHH16,01/12/2014,21/12/2014,Fuera de Plazo,AVN;CPHH16,04/12/2014,24/12/2014,Fuera de Plazo,AVN;CPHH16,05/12/2014,25/12/2014,Fuera de Plazo,AVN;CPHH16,06/12/2014,26/12/2014,Fuera de Plazo,AVN;CPHH16,08/12/2014,28/12/2014,Fuera de Plazo,AVN;CPHH16,09/12/2014,29/12/2014,Fuera de Plazo,AVN;CPHH16,10/12/2014,30/12/2014,Fuera de Plazo,AVN;CPHH16,11/12/2014,31/12/2014,Fuera de Plazo,AVN;CPHH16,12/12/2014,01/01/2015,Fuera de Plazo,AVN;CPHH16,13/12/2014,02/01/2015,Fuera de Plazo,AVN;CPHH16,14/12/2014,03/01/2015,Fuera de Plazo,AVN;CPHH16,15/12/2014,04/01/2015,Fuera de Plazo,AVN;CPHH16,16/12/2014,05/01/2015,Fuera de Plazo,AVN;CPHH16,18/12/2014,07/01/2015,Fuera de Plazo,AVN;CPHH16,19/12/2014,08/01/2015,Fuera de Plazo,AVN;CPHH16,20/12/2014,09/01/2015,Fuera de Plazo,AVN;CPHH16,21/12/2014,10/01/2015,Fuera de Plazo,AVN;CPHH16,22/12/2014,11/01/2015,Fuera de Plazo,AVN;CPHH16,23/12/2014,12/01/2015,Fuera de Plazo,AVN;CPHH16,24/12/2014,13/01/2015,Fuera de Plazo,AVN;CPHH16,27/12/2014,16/01/2015,Fuera de Plazo,AVN;CPHH16,28/12/2014,17/01/2015,Fuera de Plazo,AVN;CPHH16,30/12/2014,19/01/2015,Fuera de Plazo,AVN;CPHH16,31/12/2014,20/01/2015,Fuera de Plazo,AVN;CPHH16,01/01/2015,21/01/2015,Fuera de Plazo,AVN;CPHH16,02/01/2015,22/01/2015,Fuera de Plazo,AVN;CPHH16,03/01/2015,23/01/2015,Fuera de Plazo,AVN;CPHH16,05/01/2015,25/01/2015,Fuera de Plazo,AVN;CPHH16,06/01/2015,26/01/2015,Fuera de Plazo,AVN-TSC;CPHH16,07/01/2015,27/01/2015,Fuera de Plazo,AVN;CPHH16,08/01/2015,28/01/2015,Fuera de Plazo,AVN;CPHH16,09/01/2015,29/01/2015,Fuera de Plazo,AVN;CPHH16,17/01/2015,06/02/2015,Fuera de Plazo,AVN;CPHH16,18/01/2015,07/02/2015,Fuera de Plazo,AVN;CPHH16,19/01/2015,08/02/2015,Fuera de Plazo,AVN;CPHH16,20/01/2015,09/02/2015,Fuera de Plazo,AVN;CPHH16,21/01/2015,10/02/2015,Fuera de Plazo,AVN
+15:29:11.267,000,REQ:104~1~30
+15:29:11.271,000,REQ:104~1~30
+15:29:11.280,000,ERR:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+15:29:11.283,000,ERR:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+15:29:11.292,000,RES:NOK~Object reference not set to an instance of an object.
+15:29:11.299,000,RES:NOK~Object reference not set to an instance of an object.
+15:29:11.308,000,REQ:104~1~30
+15:29:11.312,000,ERR:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+15:29:11.313,000,RES:NOK~Object reference not set to an instance of an object.
+15:29:11.314,000,REQ:104~1~30
+15:29:11.316,000,REQ:104~1~30
+15:29:11.319,000,ERR:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+15:29:11.323,000,ERR:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+15:29:11.325,000,REQ:104~1~30
+15:29:11.327,000,RES:NOK~Object reference not set to an instance of an object.
+15:29:11.328,000,RES:NOK~Object reference not set to an instance of an object.
+15:29:11.330,000,ERR:System.NullReferenceException: Object reference not set to an instance of an object.
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 190
+15:29:11.376,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+15:29:11.383,000,RES:NOK~Object reference not set to an instance of an object.
+15:29:11.388,000,REQ:107~2~CPHH16,01/03/2013,00:05:32,8,AVN,27307690;CPHH16,01/03/2013,00:04:21,11,AVN,27307690;CPHH16,04/03/2013,14:01:51,8,AVN,27307690;CPHH16,04/03/2013,14:00:52,11,AVN,27307690;CPHH16,04/03/2013,19:55:11,7,AVN,27307690;CPHH16,04/03/2013,19:57:55,9,AVN,27307690;CPHH16,04/03/2013,19:58:22,10,AVN,27307690;CPHH16,04/03/2013,20:00:12,12,AVN,27307690;CPHH16,04/03/2013,20:48:00,13,AVN,27307690;CPHH16,04/03/2013,22:19:47,14,AVN,27307690;CPHH16,04/03/2013,22:17:49,12,AVN,27307690;CPHH16,05/03/2013,00:16:59,15,AVN,27307690;CPHH16,05/03/2013,00:18:55,13,AVN,27307690;CPHH16,05/03/2013,14:58:09,11,AVN,27307690;CPHH16,05/03/2013,15:53:08,8,AVN,27307690;CPHH16,05/03/2013,18:42:09,7,AVN,27307690;CPHH16,05/03/2013,18:45:33,9,AVN,27307690;CPHH16,05/03/2013,19:07:58,8,AVN,27307690;CPHH16,05/03/2013,22:37:01,15,AVN,27307690;CPHH16,05/03/2013,22:39:01,13,AVN,27307690;CPHH16,06/03/2013,05:19:33,11,AVN,27307690;CPHH16,06/03/2013,18:39:18,13,AVN,27307690;CPHH16,07/03/2013,01:48:18,11,AVN,27307690;CPHH16,11/03/2013,11:00:51,12,AVN,27307690;CPHH16,11/03/2013,14:01:37,11,AVN,27307690;CPHH16,11/03/2013,14:00:03,13,AVN,27307690;CPHH16,11/03/2013,18:40:54,7,AVN,27307690;CPHH16,11/03/2013,18:44:00,9,AVN,27307690;CPHH16,11/03/2013,18:44:30,10,AVN,27307690;CPHH16,11/03/2013,18:46:25,12,AVN,27307690;CPHH16,11/03/2013,18:59:34,13,AVN,27307690;CPHH16,12/03/2013,10:07:30,12,AVN,27307690;CPHH16,12/03/2013,13:59:47,11,AVN,27307690;CPHH16,13/03/2013,10:34:48,1,AVN,27307690;CPHH16,13/03/2013,10:37:55,3,AVN,27307690;CPHH16,13/03/2013,10:40:19,5,AVN,27307690;CPHH16,13/03/2013,10:41:45,7,AVN,27307690;CPHH16,13/03/2013,10:44:45,9,AVN,27307690;CPHH16,13/03/2013,10:45:12,10,AVN,27307690
+15:29:12.950,000,ERR:System.IO.IOException: The process cannot access the file 'C:\totalpack\AppKiosko\AppPipe\TransitosFacturados.pdf' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocumentFromHtml(String templatePath, String filename, String data, DocumentType documentType) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:line 52
+   at PipeComponent.Model.PdfHelper.PdfGenerator.CreateDocument(DocumentType documentType, String data, String templateName, String filename) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\Model\PdfHelper\PdfGenerator.cs:line 29
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 256
+15:29:12.960,000,RES:NOK~The process cannot access the file 'C:\totalpack\AppKiosko\AppPipe\TransitosFacturados.pdf' because it is being used by another process.
+15:29:12.965,000,RES:OK~Archivo creado
+15:29:12.985,000,RES:OK~Archivo creado
+15:29:13.442,000,RES:OK~Archivo creado
+15:30:06.715,000,REQ:104~1~30
+15:30:09.225,000,RES:OK~17122588-4
+15:30:09.313,000,REQ:105~1~30
+15:30:09.826,000,RES:OK~Indice Derecho
+15:30:09.928,000,REQ:106~1~30
+15:30:15.378,000,RES:OK~True
+15:33:48.055,000,REQ:104~1~30
+15:33:48.562,000,RES:OK~17122588-4
+15:33:48.669,000,REQ:105~1~30
+15:33:49.173,000,RES:OK~Indice Derecho
+15:33:49.264,000,REQ:106~1~30
+15:33:54.465,000,RES:OK~True
+15:37:15.584,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+15:37:16.386,000,RES:OK~
+15:39:36.692,000,REQ:101~pdf~http://172.20.3.96:8080/Facturacion/webservices/ConsultaPDF.jsp?t=39&f=5220750&e=96992030&r=1,5220750
+15:39:36.962,000,RES:OK~
+17:45:51.990,000,REQ:104~1~30
+17:45:56.680,000,RES:OK~10446699-0
+17:45:56.773,000,REQ:105~1~30
+17:45:58.318,000,ERR:System.InvalidOperationException: No se pudo obtener el nombre del dedo almacenado en la cédula.
+   at TPAuto.HuellaCI.ValidadorHuella.ObtenerDedo(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 191
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 202
+17:45:58.318,000,RES:NOK~No se pudo obtener el nombre del dedo almacenado en la cédula.
+17:46:55.959,000,REQ:104~1~30
+17:46:58.586,000,RES:OK~10446699-0
+17:46:58.679,000,REQ:105~1~30
+17:46:59.194,000,RES:OK~Indice Derecho
+17:46:59.296,000,REQ:106~1~30
+17:47:03.585,000,RES:OK~True
+17:51:11.053,000,REQ:102~NII ExD NP-K3053~1101308610,5255183,28/01/2015,18.850,9002053759,MANUEL VERDUGO
+17:51:11.189,000,RES:OK~Voucher impreso
+17:51:40.943,000,REQ:102~NII ExD NP-K3053~1101308610,5255183,28/01/2015,18.850,9002053759,MANUEL VERDUGO
+17:51:41.066,000,RES:OK~Voucher impreso
+17:52:52.289,000,REQ:104~1~30
+17:52:58.718,000,RES:OK~12685426-9
+17:52:58.811,000,REQ:105~1~30
+17:52:59.295,000,RES:OK~Indice Derecho
+17:52:59.415,000,REQ:106~1~30
+17:53:03.488,000,RES:OK~True
+17:56:10.676,000,REQ:104~1~30
+17:56:17.778,000,RES:OK~12685426-9
+17:56:17.871,000,REQ:105~1~30
+17:56:18.371,000,RES:OK~Indice Derecho
+17:56:18.491,000,REQ:106~1~30
+17:56:21.410,000,ERR:TPAuto.HuellaCI.Exceptions.SmartCardException: SCardTransmit error: -2146434967
+   at TPAuto.HuellaCI.SmartCard.Transmit(Byte[] apduCmd) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\SmartCard.cs:line 156
+   at TPAuto.HuellaCI.ValidadorCedulaNueva.HuellaEsValida(Byte[] huella) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorCedulaNueva.cs:line 37
+   at TPAuto.HuellaCI.ValidadorHuella.ValidarHuella(String readerName, Int32 timeout) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\HuellaCI\ValidadorHuella.cs:line 285
+   at PipeComponent.PipeServer.WaitForConnectionCallBack(IAsyncResult iar) in E:\00.- Proyectos\01.- Autopista Vespucio Norte\PipeComponent\PipeComponent\PipeServer.cs:line 214
+17:56:21.410,000,RES:NOK~SCardTransmit error: -2146434967
+17:56:29.645,000,REQ:104~1~30
+17:56:30.296,000,RES:OK~12685426-9
+17:56:30.374,000,REQ:105~1~30
+17:56:30.873,000,RES:OK~Indice Derecho
+17:56:30.978,000,REQ:106~1~30
+17:56:33.344,000,RES:OK~True
